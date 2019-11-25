@@ -17,11 +17,11 @@ class GenreSerializer(serializers.ModelSerializer):
 class MovieSerializer(serializers.ModelSerializer):
     # genres = serializers.PrimaryKeyRelatedField(queryset=Genre.objects.all(), many=True)
     # hashtag = serializers.PrimaryKeyRelatedField(queryset=HashTag.objects.all(), many=True)
-    like_users = serializers.PrimaryKeyRelatedField(queryset=User.objects.all(), many=True)
+    # like_users = serializers.PrimaryKeyRelatedField(queryset=User.objects.all(), many=True)
     genres = GenreSerializer(many=True)
     hashtags = HashTagSerializer(many=True)
     
     class Meta:
         model = Movie
-        fields = ('id', 'title', 'image', 'director', 'actor', 'score', 'rating', 'genres', 'like_users', 'hashtags')
+        fields = ('id', 'title', 'image', 'director', 'actor', 'score', 'rating', 'audience', 'genres', 'hashtags')
 
