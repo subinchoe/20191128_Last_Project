@@ -11,8 +11,10 @@ from django.contrib.auth.forms import UserCreationForm
 @permission_classes([AllowAny,])
 def signup(request):
     serializer = UserSerializer(data=request.POST)
+    # print(serializer.initial_data)
+    serializer.is_valid()
+    # print(serializer.errors)
     if serializer.is_valid():
         serializer.save()
-        print(serializer.data)
         return JsonResponse(serializer.data)
     return HttpResponse(status=400)
