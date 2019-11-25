@@ -1,10 +1,11 @@
 from django.http import JsonResponse, HttpResponse
 from django.shortcuts import render, get_object_or_404
-from rest_framework.decorators import api_view, permission_classes
-from rest_framework.permissions import AllowAny
+from rest_framework.decorators import api_view, permission_classes, authentication_classes
+from rest_framework.permissions import AllowAny, IsAuthenticated
 from .serializers import MovieSerializer, GenreSerializer
 from .models import Movie, Genre, HashTag
-import json
+from rest_framework.permissions import IsAuthenticated
+from rest_framework_jwt.authentication import JSONWebTokenAuthentication
 
 # Create your views here.
 
@@ -47,3 +48,22 @@ def get_genres(request):
     serializer = GenreSerializer(genres, many=True)
     return JsonResponse(serializer.data, safe=False)
     
+@api_view(['GET'])
+@permission_classes((IsAuthenticated,))
+@authentication_classes((JSONWebTokenAuthentication,))
+def like(request, id):
+    if request.method == 'GET':
+        movie = get_object_or_404(Movie, id=id)
+        user = request.user
+        
+        if user not in movie.like_users.all():
+            movie.like_users.add(user)
+            is_ok = True
+        else:
+            movie.like_users.remove(user)
+            is_ok = False
+        context = {
+            'likes_cnt': movie.like_users.all().count(),
+            'is_ok': is_ok
+        }
+        return JsonResponse(context)
