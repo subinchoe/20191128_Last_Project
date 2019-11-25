@@ -22,24 +22,22 @@ def detail(request, id):
     serializer = MovieSerializer(movie)
     return JsonResponse(serializer.data, safe=False)
 
-def querySet_to_list(qs):
-    return [dict(q) for q in qs]
-
 @api_view(['GET'])
 @permission_classes([AllowAny,])
 def hashtags(request, id):
     hashtags = HashTag.objects.filter(tagged_movie=id)
-    print(hashtags)
+    # print(hashtags)
     movie2 = []
+    # 1.각 해시태그가 있는 영화들을 value만 추출해서 movie2 한곳에 담아준다.
     for hashtag in hashtags:
         # temp = Movie.objects.filter(hashtags=hashtag)
         temp = hashtag.tagged_movie.all()
         for i in temp.values():
             if i not in movie2:
                 movie2.append(i)
-    print(movie2)
-    serializer = MovieSerializer(movie2)
-    return JsonResponse(querySet_to_list(serializer.data), safe=False)
+    # print(movie2)
+    # 2.여러개 보낼 때는 serializer사용하지 않고 보내준다(리스트형태).
+    return JsonResponse(movie2, safe=False)
 
 @api_view(['GET'])
 @permission_classes([AllowAny,])

@@ -3,7 +3,7 @@ from .models import Genre, Movie, HashTag
 from accounts.models import User
 
 class HashTagSerializer(serializers.ModelSerializer):
-    # movies = MovieSerializer(many=True)
+    # movies = serializers.PrimaryKeyRelatedField(queryset=Movie.objects.all(), many=True)
     class Meta:
         model = HashTag
         fields = '__all__'
