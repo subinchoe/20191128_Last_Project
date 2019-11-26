@@ -3,10 +3,10 @@ from django.shortcuts import render, get_object_or_404
 from rest_framework.decorators import api_view, permission_classes, authentication_classes
 from rest_framework.permissions import AllowAny, IsAuthenticated
 from .serializers import UserSerializer
-from movies.serializers import MovieSerializer
+from movies.serializers import MovieSerializer, ReviewSerializer
 from django.contrib.auth.forms import UserCreationForm
 from .models import User
-from movies.models import Movie
+from movies.models import Movie, Review
 from rest_framework.permissions import IsAuthenticated
 from rest_framework_jwt.authentication import JSONWebTokenAuthentication
 
@@ -39,4 +39,10 @@ def mypage(request, id):
     user = request.user
     movies = user.like_movies.all()
     serializer = MovieSerializer(movies, many=True)
-    return JsonResponse(serializer.data, safe=False)
+    reviews = user.review_set.all()
+    serializer2 = ReviewSerializer(reviews, many=True)
+    context = {
+        'movies': serializer.data,
+        'reviews': serializer2.data
+    }
+    return JsonResponse(context, safe=False)

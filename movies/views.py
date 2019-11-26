@@ -75,15 +75,20 @@ def like(request, id):
     }
     return JsonResponse(context)
 
-@api_view(['POST'])
+@api_view(['POST', 'DELETE'])
 @permission_classes((IsAuthenticated,))
 @authentication_classes((JSONWebTokenAuthentication,))
 def review(request, id):
-    serializer = ReviewSerializer(data=request.POST)
-    if serializer.is_valid():
-        serializer.save()
-        return JsonResponse(serializer.data)
-    return HttpResponse(status=400)
+    if request.method == 'POST':
+        serializer = ReviewSerializer(data=request.POST)
+        if serializer.is_valid():
+            serializer.save()
+            return JsonResponse(serializer.data)
+        return HttpResponse(status=400)
+    elif request.method == 'DELETE':
+        review = get_object_or_404(Review, id=id)
+        review.delete()
+        return
 
 @api_view(['GET'])
 @permission_classes([AllowAny,])
