@@ -34,3 +34,4 @@ class Review(models.Model):
     user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     content = models.CharField(max_length=300)
     star = models.IntegerField()
+    created_at = models.DateTimeField(auto_now_add=True, blank=True)

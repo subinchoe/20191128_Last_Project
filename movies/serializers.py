@@ -15,16 +15,15 @@ class GenreSerializer(serializers.ModelSerializer):
         model = Genre
         fields = ('id', 'name', 'movies')
 
-class MovieSerializer(serializers.ModelSerializer):
-    # like_users = serializers.PrimaryKeyRelatedField(queryset=User.objects.all(), many=True)
-    genres = GenreSerializer(many=True)
-    hashtags = HashTagSerializer(many=True)
-    
-    class Meta:
-        model = Movie
-        fields = '__all__'
-
 class ReviewSerializer(serializers.ModelSerializer):
     class Meta:
         model = Review
         fields = '__all__'
+
+class MovieSerializer(serializers.ModelSerializer):
+    # users = serializers.PrimaryKeyRelatedField(queryset=User.objects.all(), many=True)
+    genres = GenreSerializer(many=True)
+    hashtags = HashTagSerializer(many=True)
+    class Meta:
+        model = Movie
+        fields ='__all__'

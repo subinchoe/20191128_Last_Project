@@ -2,8 +2,8 @@ from django.http import JsonResponse, HttpResponse
 from django.shortcuts import render, get_object_or_404
 from rest_framework.decorators import api_view, permission_classes, authentication_classes
 from rest_framework.permissions import AllowAny, IsAuthenticated
-from .serializers import MovieSerializer, GenreSerializer
-from .models import Movie, Genre, HashTag
+from .serializers import MovieSerializer, GenreSerializer, ReviewSerializer
+from .models import Movie, Genre, HashTag, Review
 from rest_framework.permissions import IsAuthenticated
 from rest_framework_jwt.authentication import JSONWebTokenAuthentication
 
@@ -79,4 +79,16 @@ def like(request, id):
 @permission_classes((IsAuthenticated,))
 @authentication_classes((JSONWebTokenAuthentication,))
 def review(request, id):
-    pass
+    serializer = ReviewSerializer(data=request.POST)
+    if serializer.is_valid():
+        serializer.save()
+        return JsonResponse(serializer.data)
+    return HttpResponse(status=400)
+
+@api_view(['GET'])
+@permission_classes([AllowAny,])
+def get_reviews(request, id):
+    movie = get_object_or_404(Movie, id=id)
+    reviews = movie.review_set.all()
+    serializer = ReviewSerializer(reviews, many=True)
+    return JsonResponse(serializer.data, safe=False)
