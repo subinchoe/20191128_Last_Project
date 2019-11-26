@@ -74,3 +74,9 @@ def like(request, id):
         'is_ok': is_ok
     }
     return JsonResponse(context)
+
+@api_view(['POST'])
+@permission_classes((IsAuthenticated,))
+@authentication_classes((JSONWebTokenAuthentication,))
+def review(request, id):
+    pass

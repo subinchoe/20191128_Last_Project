@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Genre, Movie, HashTag
+from .models import Genre, Movie, HashTag, Review
 from accounts.models import User
 
 
@@ -24,3 +24,7 @@ class MovieSerializer(serializers.ModelSerializer):
         model = Movie
         fields = '__all__'
 
+class ReviewSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Review
+        fields = '__all__'

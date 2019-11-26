@@ -10,4 +10,5 @@ urlpatterns = [
     path('genres/', views.get_genres),
     path('genre/<int:id>/', views.genre),
     path('<int:id>/like/', views.like),
+    path('<int:id>/review/', views.review)
 ]
