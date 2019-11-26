@@ -52,18 +52,17 @@ def get_genres(request):
 @permission_classes((IsAuthenticated,))
 @authentication_classes((JSONWebTokenAuthentication,))
 def like(request, id):
-    if request.method == 'GET':
-        movie = get_object_or_404(Movie, id=id)
-        user = request.user
-        
-        if user not in movie.like_users.all():
-            movie.like_users.add(user)
-            is_ok = True
-        else:
-            movie.like_users.remove(user)
-            is_ok = False
-        context = {
-            'likes_cnt': movie.like_users.all().count(),
-            'is_ok': is_ok
-        }
-        return JsonResponse(context)
+    movie = get_object_or_404(Movie, id=id)
+    user = request.user
+    
+    if user not in movie.like_users.all():
+        movie.like_users.add(user)
+        is_ok = True
+    else:
+        movie.like_users.remove(user)
+        is_ok = False
+    context = {
+        'likes_cnt': movie.like_users.all().count(),
+        'is_ok': is_ok
+    }
+    return JsonResponse(context)

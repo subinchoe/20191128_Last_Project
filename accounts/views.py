@@ -1,10 +1,14 @@
 from django.http import JsonResponse, HttpResponse
-from django.shortcuts import render
-from rest_framework.decorators import api_view, permission_classes
-from rest_framework.permissions import AllowAny
+from django.shortcuts import render, get_object_or_404
+from rest_framework.decorators import api_view, permission_classes, authentication_classes
+from rest_framework.permissions import AllowAny, IsAuthenticated
 from .serializers import UserSerializer
+from movies.serializers import MovieSerializer
 from django.contrib.auth.forms import UserCreationForm
 from .models import User
+from movies.models import Movie
+from rest_framework.permissions import IsAuthenticated
+from rest_framework_jwt.authentication import JSONWebTokenAuthentication
 
 # Create your views here.
 
@@ -12,7 +16,7 @@ from .models import User
 @permission_classes([AllowAny,])
 def signup(request):
     serializer = UserSerializer(data=request.POST)
-    print(serializer.initial_data)
+    # print(serializer.initial_data)
     # print(serializer.errors)
     # 1.입력받은 password를 암호화하기 위해 
     if serializer.is_valid(raise_exception=True):
@@ -25,3 +29,12 @@ def signup(request):
         
         return JsonResponse(serializer.data)
     return HttpResponse(status=400)
+
+@api_view(['GET'])
+@permission_classes((IsAuthenticated,))
+@authentication_classes((JSONWebTokenAuthentication,))
+def mypage(request, id):
+    user = request.user
+    movies = user.like_movies.all()
+    serializer = MovieSerializer(movies, many=True)
+    return JsonResponse(serializer.data, safe=False)
