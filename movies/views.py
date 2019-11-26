@@ -49,20 +49,28 @@ def get_genres(request):
     return JsonResponse(serializer.data, safe=False)
     
 @api_view(['GET'])
+@permission_classes([AllowAny,])
+def genre(request, id):
+    genre = get_object_or_404(Genre, id=id)
+    movies = genre.movies.all().order_by('-score')
+    serializer = MovieSerializer(movies, many=True)
+    return JsonResponse(serializer.data, safe=False)
+
+@api_view(['GET'])
 @permission_classes((IsAuthenticated,))
 @authentication_classes((JSONWebTokenAuthentication,))
 def like(request, id):
     movie = get_object_or_404(Movie, id=id)
     user = request.user
     
-    if user not in movie.like_users.all():
-        movie.like_users.add(user)
+    if user not in movie.users.all():
+        movie.users.add(user)
         is_ok = True
     else:
-        movie.like_users.remove(user)
+        movie.users.remove(user)
         is_ok = False
     context = {
-        'likes_cnt': movie.like_users.all().count(),
+        'likes_cnt': movie.users.all().count(),
         'is_ok': is_ok
     }
     return JsonResponse(context)

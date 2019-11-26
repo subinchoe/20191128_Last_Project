@@ -8,5 +8,6 @@ urlpatterns = [
     path('detail/<int:id>/', views.detail),
     path('hashtags/<int:id>/', views.hashtags),
     path('genres/', views.get_genres),
+    path('genre/<int:id>/', views.genre),
     path('<int:id>/like/', views.like),
 ]

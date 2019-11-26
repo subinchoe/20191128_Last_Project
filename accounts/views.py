@@ -25,6 +25,8 @@ def signup(request):
         user = serializer.save()
         # 3.set_password함수를 통해 암호화한 후 저장한다.
         user.set_password(raw_password=password)
+        user.is_active = True
+        # print(dir(user))
         user.save()
         
         return JsonResponse(serializer.data)
