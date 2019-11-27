@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "model": "movies.genre",
+        "fields": {
+            "name": "드라마"
+        }
+    },
+    {
+        "id": 2,
+        "model": "movies.genre",
+        "fields": {
+            "name": "판타지"
+        }
+    },
+    {
+        "id": 3,
+        "model": "movies.genre",
+        "fields": {
+            "name": "서부"
+        }
+    },
+    {
+        "id": 4,
+        "model": "movies.genre",
+        "fields": {
+            "name": "공포(호러)"
+        }
+    },
+    {
+        "id": 5,
+        "model": "movies.genre",
+        "fields": {
+            "name": "멜로/로맨스"
+        }
+    },
+    {
+        "id": 6,
+        "model": "movies.genre",
+        "fields": {
+            "name": "모험"
+        }
+    },
+    {
+        "id": 7,
+        "model": "movies.genre",
+        "fields": {
+            "name": "스릴러"
+        }
+    },
+    {
+        "id": 8,
+        "model": "movies.genre",
+        "fields": {
+            "name": "느와르"
+        }
+    },
+    {
+        "id": 9,
+        "model": "movies.genre",
+        "fields": {
+            "name": "컬트"
+        }
+    },
+    {
+        "id": 10,
+        "model": "movies.genre",
+        "fields": {
+            "name": "다큐멘터리"
+        }
+    },
+    {
+        "id": 11,
+        "model": "movies.genre",
+        "fields": {
+            "name": "코미디"
+        }
+    },
+    {
+        "id": 12,
+        "model": "movies.genre",
+        "fields": {
+            "name": "가족"
+        }
+    },
+    {
+        "id": 13,
+        "model": "movies.genre",
+        "fields": {
+            "name": "미스터리"
+        }
+    },
+    {
+        "id": 14,
+        "model": "movies.genre",
+        "fields": {
+            "name": "전쟁"
+        }
+    },
+    {
+        "id": 15,
+        "model": "movies.genre",
+        "fields": {
+            "name": "애니메이션"
+        }
+    },
+    {
+        "id": 16,
+        "model": "movies.genre",
+        "fields": {
+            "name": "범죄"
+        }
+    },
+    {
+        "id": 17,
+        "model": "movies.genre",
+        "fields": {
+            "name": "뮤지컬"
+        }
+    },
+    {
+        "id": 18,
+        "model": "movies.genre",
+        "fields": {
+            "name": "SF"
+        }
+    },
+    {
+        "id": 19,
+        "model": "movies.genre",
+        "fields": {
+            "name": "액션"
+        }
+    },
+    {
+        "id": 20,
+        "model": "movies.genre",
+        "fields": {
+            "name": "어드벤처"
+        }
+    },
+    {
+        "id": 21,
+        "model": "movies.genre",
+        "fields": {
+            "name": "사극"
+        }
+    },
+    {
+        "id": 22,
+        "model": "movies.genre",
+        "fields": {
+            "name": "기타"
+        }
+    }
+]

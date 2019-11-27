@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from .models import User
-from movies.serializers import GenreSerializer
+from movies.serializers import GenreSerializer, ReviewSerializer
 
 class UserSerializer(serializers.ModelSerializer):
     # like_genres = GenreSerializer(many=True) 안써줘야함
@@ -13,3 +13,9 @@ class UserSerializer(serializers.ModelSerializer):
                     'required': False,
                 }
             }
+
+class UserSerializer2(serializers.ModelSerializer):
+    like_genres = GenreSerializer(many=True)
+    class Meta:
+        model = User
+        fields = '__all__'

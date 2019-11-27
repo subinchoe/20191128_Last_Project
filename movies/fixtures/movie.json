@@ -1,0 +1,1788 @@
+[
+	{
+		"id": 1,
+		"model": "movies.movie",
+		"fields": {
+			"title": "신의 한 수: 귀수편",
+			"image": "https://movie-phinf.pstatic.net/20191029_52/15723135180872xOKy_JPEG/movie_image.jpg",
+			"description": "바둑으로 모든 것을 잃은 아이 ‘귀수’유일하게 기대던 스승 허일도마저 잃고 홀로 살아남아세상을 향한 복수를 계획한다.운명의 선택은 神의 놀음판에 있다!자신을 사지로 내몬 냉혹한 내기바둑판으로 뛰어든 귀수(권상우)는전국을 돌아다니며 귀신 같이 바둑을 두는 자들과 대결을 펼치는데…사활을 건 대결!신의 한 수를 다시 두시겠습니까?",
+			"director": "리건|",
+			"actor": "권상우|김희원|김성균|",
+			"score": 8.03,
+			"rating": "15세이상관람가",
+			"audience": 2085194,
+			"openDt": 20191107,
+			"genres": [
+				16
+			],
+			"video": "https://www.youtube.com/embed/JPEOa01U_Ls"
+		}
+	},
+	{
+		"id": 2,
+		"model": "movies.movie",
+		"fields": {
+			"title": "터미네이터: 다크 페이트",
+			"image": "https://movie-phinf.pstatic.net/20191030_118/1572411669676j0Arb_JPEG/movie_image.jpg",
+			"description": "심판의 날 그 후, 뒤바뀐 미래 새로운 인류의 희망 ‘대니’(나탈리아 레이즈)를 지키기 위해 슈퍼 솔져 ‘그레이스’(맥켄지 데이비스)가미래에서 찾아오고, ‘대니’를 제거하기 위한 터미네이터 ‘Rev-9’(가브리엘 루나)의 추격이 시작된다. 최첨단 기술력으로 무장한 최강의 적 터미네이터 ‘Rev-9’의 무차별적인 공격에 쫓기기 시작하던‘그레이스’와 ‘대니’ 앞에 터미네이터 헌터 ‘사라 코너’(린다 해밀턴)가 나타나 도움을 준다. 인류의 수호자이자 기계로 강화된 슈퍼 솔져 ‘그레이스’와 ‘사라 코너’는 ‘대니’를 지키기 위해 새로운 조력자를 찾아 나서고, 터미네이터 ‘Rev-9’은 그들의 뒤를 끈질기게 추격하는데...더 이상 정해진 미래는 없다 지키려는 자 VS 제거하려는 자, 새로운 운명이 격돌한다!",
+			"director": "팀 밀러|",
+			"actor": "맥켄지 데이비스|아놀드 슈왈제네거|린다 해밀턴|나탈리아 레이즈|가브리엘 루나|",
+			"score": 8.62,
+			"rating": "15세이상관람가",
+			"audience": 2383111,
+			"openDt": 20191030,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/mNezVsOX9N8"
+		}
+	},
+	{
+		"id": 3,
+		"model": "movies.movie",
+		"fields": {
+			"title": "82년생 김지영",
+			"image": "https://movie-phinf.pstatic.net/20191024_215/1571900079078PNazL_JPEG/movie_image.jpg",
+			"description": "1982년 봄에 태어나누군가의 딸이자 아내, 동료이자 엄마로2019년 오늘을 살아가는 ‘지영’(정유미).때론 어딘가 갇힌 듯 답답하기도 하지만남편 ‘대현’(공유)과 사랑스러운 딸,그리고 자주 만나지 못해도 항상 든든한 가족들이 ‘지영’에겐 큰 힘이다.하지만 언젠가부터 마치 다른 사람이 된 것처럼 말하는 ‘지영’.‘대현’은 아내가 상처 입을까 두려워 그 사실을 털어놓지 못하고‘지영’은 이런 ‘대현’에게 언제나 “괜찮다”라며 웃어 보이기만 하는데…모두가 알지만 아무도 몰랐던당신과 나의 이야기",
+			"director": "김도영|",
+			"actor": "정유미|공유|",
+			"score": 6.69,
+			"rating": "12세이상관람가",
+			"audience": 3619371,
+			"openDt": 20191023,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/Gz0ZeY1U4vY"
+		}
+	},
+	{
+		"id": 4,
+		"model": "movies.movie",
+		"fields": {
+			"title": "아담스 패밀리",
+			"image": "https://movie-phinf.pstatic.net/20191011_62/1570758276142YxXEz_JPEG/movie_image.jpg",
+			"description": "언제나 쿨한 괴짜 엄마 ‘모티시아’부터\n사고치는 아이들이 자랑스러운 아빠 ‘고메즈’,\n부모님이 모르는 많은 걸 가진 소녀 ‘웬즈데이’,\n폭발물 실험이 취미인 막내 ‘퍽슬리’까지!\n평범치 않은 ‘아담스 패밀리’가 평범한 동네에 나타났다.\n지금껏 본 적 없는 가족의 등장에 마을 사람들은\n‘아담스 패밀리’를 괴물로 몰아가기 시작하는데…",
+			"director": "그렉 티어난|콘래드 버논|",
+			"actor": "클로이 모레츠|샤를리즈 테론|핀 울프하드|오스카 아이삭|",
+			"score": 7.76,
+			"rating": "전체관람가",
+			"audience": 319305,
+			"openDt": 20191107,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/WzoU2ydEbv0"
+		}
+	},
+	{
+		"id": 5,
+		"model": "movies.movie",
+		"fields": {
+			"title": "날씨의 아이",
+			"image": "https://movie-phinf.pstatic.net/20190916_49/1568614827948hyiXA_JPEG/movie_image.jpg",
+			"description": "비가 그치지 않던 어느 여름날,\n가출 소년 ‘호다카’는 수상한 잡지사에 취직하게 되고\n비밀스러운 소녀 ‘히나’를 우연히 만난다.\n\n“지금부터 하늘이 맑아질 거야”\n\n그녀의 기도에 거짓말 같이 빗줄기는 멈추고,\n사람들의 얼굴에 환한 빛이 내려온다.\n\n“신기해, 날씨 하나에 사람들의 감정이 이렇게나 움직이다니”\n\n하지만, 맑음 뒤 흐림이 찾아오듯\n두 사람은 엄청난 세계의 비밀을 마주하게 되는데…\n\n흐리기만 했던 세상이 빛나기 시작했고, 그 끝에는 네가 있었다.",
+			"director": "신카이 마코토|",
+			"actor": "다이고 코타로|모리 나나|오구리 슌|",
+			"score": 7.86,
+			"rating": "15세이상관람가",
+			"audience": 642429,
+			"openDt": 20191030,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/ILQl1Q4jizc"
+		}
+	},
+	{
+		"id": 6,
+		"model": "movies.movie",
+		"fields": {
+			"title": "말레피센트 2",
+			"image": "https://movie-phinf.pstatic.net/20191004_160/1570150829240zmLfa_JPEG/movie_image.jpg",
+			"description": "강력한 어둠의 지배자이자 무어스 숲의 수호자 ‘말레피센트’는 딸처럼 돌봐온 ‘오로라’와 ‘필립 왕자’의 결혼 약속으로 인간 세계의 ‘잉그리스 왕비’와 대립하게 된다.\n이에 요정과 인간의 오랜 연합이 깨지고 숨겨진 요정 종족 다크페이의 리더 ‘코널’까지 등장하면서 두 세계는 피할 수 없는 거대한 전쟁에 휘말리게 되는데…..",
+			"director": "요아킴 뢰닝|",
+			"actor": "안젤리나 졸리|엘르 패닝|미셸 파이퍼|",
+			"score": 7.62,
+			"rating": "12세이상관람가",
+			"audience": 1432023,
+			"openDt": 20191017,
+			"genres": [
+				20
+			],
+			"video": "https://www.youtube.com/embed/sXjwpMDrMnY"
+		}
+	},
+	{
+		"id": 7,
+		"model": "movies.movie",
+		"fields": {
+			"title": "닥터 슬립",
+			"image": "https://movie-phinf.pstatic.net/20191014_28/1571020269174F3yvC_JPEG/movie_image.jpg",
+			"description": "어린시절 아버지가 남긴 트라우마에서 벗어나지 못한 대니는 자신이 가진 샤이닝 능력으로 죽음을 앞둔 이들을 돕는 닥터 슬립으로 불리며 살고 있다. \n우연히 누구보다 강력한 샤이닝 능력을 지닌 12살 소녀 아브라 스톤을 만나게 되면서, 샤이닝 능력자들을 먹고 영원한 생명을 이어나가는 트루 낫이라는 비밀조직과 맞서게 되는데…",
+			"director": "마이크 플래너건|",
+			"actor": "이완 맥그리거|레베카 퍼거슨|카일리 커란|",
+			"score": 8.62,
+			"rating": "15세이상관람가",
+			"audience": 46343,
+			"openDt": 20191107,
+			"genres": [
+				7
+			],
+			"video": "https://www.youtube.com/embed/trqSKPutkPQ"
+		}
+	},
+	{
+		"id": 8,
+		"model": "movies.movie",
+		"fields": {
+			"title": "가장 보통의 연애",
+			"image": "https://movie-phinf.pstatic.net/20190911_29/1568167420523xeKY5_JPEG/movie_image.jpg",
+			"description": "전 여친에 상처받은 ‘재훈’(김래원). 여느 때처럼 숙취로 시작한 아침, 모르는 번호의 누군가와 밤새 2시간이나 통화한 기록을 발견하게 되고  그 상대가 바로! 통성명한 지 24시간도 채 되지 않은 직장 동료 ‘선영’임을 알게 된다. 남친과 뒤끝 있는 이별 중인 ‘선영’(공효진). 새로운 회사로 출근한 첫날, 할 말 못 할 말 쏟아내며 남친과 헤어지던 현장에서하필이면! 같은 직장의 ‘재훈’을 마주친다.만난 지 하루 만에 일보다 서로의 연애사를 더 잘 알게 된 두 사람. 하지만 미묘한 긴장과 어색함도 잠시 ‘한심하다’, ‘어이없다’ 부딪히면서도 마음이 쓰이는 건 왜 그럴까?",
+			"director": "김한결|",
+			"actor": "김래원|공효진|",
+			"score": 7.84,
+			"rating": "15세이상관람가",
+			"audience": 2918537,
+			"openDt": 20191002,
+			"genres": [
+				5
+			],
+			"video": "https://www.youtube.com/embed/To2Kwfhkypg"
+		}
+	},
+	{
+		"id": 9,
+		"model": "movies.movie",
+		"fields": {
+			"title": "엔젤 해즈 폴른",
+			"image": "https://movie-phinf.pstatic.net/20191113_233/1573623877830zX5e9_JPEG/movie_image.jpg",
+			"description": "비밀 경호국 최고 요원 ‘배닝’(제라드 버틀러)의 임무수행 중\n'트럼불' 대통령(모건 프리먼)을 향한 의문의 사상 최대 규모의 드론 테러가 발생한다.\n최악의 드론 테러 사건 후 '배닝'은 대통령 암살사건의 테러범으로 지목되고\n국가 영웅은 한순간에 일급 수배자가 되어 FBI에게 쫓기게 되는데...\n\n표적이 된 그가 다시 움직인다!\n숨막히는 추격! 모두가 그를 쫓는다!",
+			"director": "릭 로먼 워|",
+			"actor": "모건 프리먼|제라드 버틀러|",
+			"score": 8.62,
+			"rating": "15세이상관람가",
+			"audience": 175000,
+			"openDt": 20191113,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/kkFbKCQFb_Q"
+		}
+	},
+	{
+		"id": 10,
+		"model": "movies.movie",
+		"fields": {
+			"title": "좀비랜드: 더블 탭",
+			"image": "https://movie-phinf.pstatic.net/20191101_133/1572575304249ohmm8_JPEG/movie_image.jpg",
+			"description": "좀비로 세상이 망한지 10년,\n자신들만의 재능을 발휘하고 생존 규칙을 지키며\n여전히 꿋꿋하게 살아가고 있는 희한한 가족\n탤러해시, 콜럼버스, 위치타, 리틀록.\n\n하지만 ‘좀비랜드’에 더욱 진화한 좀비가 나타나고\n이들은 새로운 인간 생존자들과 함께 사투를 시작하는데…",
+			"director": "루벤 플레셔|",
+			"actor": "엠마 스톤|우디 해럴슨|제시 아이젠버그|아비게일 브레스린|",
+			"score": 8.14,
+			"rating": "15세이상관람가",
+			"audience": 134025,
+			"openDt": 20191113,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/zxhtSx1kOWg"
+		}
+	},
+	{
+		"id": 11,
+		"model": "movies.movie",
+		"fields": {
+			"title": "윤희에게",
+			"image": "https://movie-phinf.pstatic.net/20191114_81/15737104663784PTG6_JPEG/movie_image.jpg",
+			"description": "평범한 일상을 살아가던 '윤희' 앞으로 도착한 한 통의 편지.편지를 몰래 읽어본 딸 '새봄'은 편지의 내용을 숨긴 채발신인이 살고 있는 곳으로 여행을 제안하고,'윤희'는 비밀스러웠던 첫사랑의 기억으로 가슴이 뛴다.'새봄'과 함께 여행을 떠난 ‘윤희’는끝없이 눈이 내리는 그곳에서첫사랑을 만날지도 모른다는 기대를 품는데…",
+			"director": "임대형|",
+			"actor": "김희애|김소혜|성유빈|나카무라 유코|키노 하나|",
+			"score": 9.16,
+			"rating": "12세이상관람가",
+			"audience": 63686,
+			"openDt": 20191114,
+			"genres": [
+				5
+			],
+			"video": "https://www.youtube.com/embed/dOeHK4p5Ypw"
+		}
+	},
+	{
+		"id": 12,
+		"model": "movies.movie",
+		"fields": {
+			"title": "겨울왕국 2",
+			"image": "https://movie-phinf.pstatic.net/20191121_221/1574298335357mqgLk_JPEG/movie_image.jpg",
+			"description": "어느 날 부턴가 의문의 목소리가 엘사를 부르고, 평화로운 아렌델 왕국을 위협한다.\n트롤은 모든 것은 과거에서 시작되었음을 알려주며 엘사의 힘의 비밀과 진실을 찾아 떠나야한다고 조언한다. \n\n위험에 빠진 아렌델 왕국을 구해야만 하는 엘사와 안나는 숨겨진 과거의 진실을 찾아\n크리스토프, 올라프 그리고 스벤과 함께 위험천만한 놀라운 모험을 떠나게 된다.\n자신의 힘을 두려워했던 엘사는 이제 이 모험을 헤쳐나가기에 자신의 힘이 충분하다고 믿어야만 하는데…\n\n두려움을 깨고 새로운 운명을 만나다!",
+			"director": "크리스 벅|제니퍼 리|",
+			"actor": "크리스틴 벨|이디나 멘젤|",
+			"score": 8.68,
+			"rating": "전체관람가",
+			"audience": 4437776,
+			"openDt": 20191121,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/eSEs4B4H-EA"
+		}
+	},
+	{
+		"id": 13,
+		"model": "movies.movie",
+		"fields": {
+			"title": "얼굴없는 보스",
+			"image": "https://movie-phinf.pstatic.net/20191015_278/1571104268988MlSH6_JPEG/movie_image.jpg",
+			"description": "건달이 되면 멋진 남자로서 폼 나는 삶을 살 수 있을 거란 일념으로,배신한 선배를 물러나게 하고 마침내 보스의 자리까지 오른 ‘상곤’.하지만 그 일로 선배를 제낀 후배라는 오명을 쓰게 된다.형제보다 사랑하는 동생들과 의리를 맹세하고목숨보다 사랑하는 그녀와 행복까지 꿈꾸지만매일매일 피바람이 불어대는 지옥과 같은 이 곳에는건달들의 낭만 따위는 사치처럼 보이는데…건달들이 개입된 음모와 얽히고설킨 배신 속, 가족과 동생들까지점점 더 모든 것을 잃을 위기에 처하는 ‘상곤’.그가 마지막까지 지키고자 했던 것은 무엇이었을까?",
+			"director": "송창용|",
+			"actor": "천정명|진이한|이하율|곽희성|이시아|김도훈|이지훈|",
+			"score": 4.64,
+			"rating": "15세이상관람가",
+			"audience": 16355,
+			"openDt": 20191121,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/-aXmHBclH2w"
+		}
+	},
+	{
+		"id": 14,
+		"model": "movies.movie",
+		"fields": {
+			"title": "조커",
+			"image": "https://movie-phinf.pstatic.net/20190906_128/1567761736426S6Fje_JPEG/movie_image.jpg",
+			"description": "고담시의 광대 아서 플렉은 코미디언을 꿈꾸는 남자.\n하지만 모두가 미쳐가는 코미디 같은 세상에서\n맨 정신으로는 그가 설 자리가 없음을 깨닫게 되는데…\n이제껏 본 적 없는 진짜 ‘조커’를 만나라!",
+			"director": "토드 필립스|",
+			"actor": "호아킨 피닉스|",
+			"score": 8.65,
+			"rating": "15세이상관람가",
+			"audience": 5164444,
+			"openDt": 20191002,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/x60mB0zXZ38"
+		}
+	},
+	{
+		"id": 15,
+		"model": "movies.movie",
+		"fields": {
+			"title": "제미니 맨",
+			"image": "https://movie-phinf.pstatic.net/20190905_247/1567649984099gy6L7_JPEG/movie_image.jpg",
+			"description": "최강의 요원 헨리(윌 스미스)는 자신과 완벽하게 닮은 의문의 요원(윌 스미스)에게 맹렬한 추격을 당한다. \n한편 헨리와 이제 막 동료가 된 대니(메리 엘리자베스 윈스티드), 헨리의 오랜 동료 배런(베네딕트 웡)은 의문의 요원에게 \n이상한 낌새를 느끼고 정체를 파헤치기 시작하고, 그가 헨리의 DNA를 추출해 탄생한 ‘제미니 프로젝트’ 요원임을 알게 된다. \n헨리의 전성기와 너무나 완벽하게 닮은 한 사람을 만나 충격에 빠지는 헨리와 동료들. 그들은 ‘제미니 프로젝트’를 파괴하기 위한 작전을 시작하는데…",
+			"director": "이안|",
+			"actor": "윌 스미스|",
+			"score": 6.68,
+			"rating": "12세이상관람가",
+			"audience": 375620,
+			"openDt": 20191009,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/a8KsW_cEEzc"
+		}
+	},
+	{
+		"id": 16,
+		"model": "movies.movie",
+		"fields": {
+			"title": "몬스터 하우스",
+			"image": "https://movie-phinf.pstatic.net/20190910_25/15680781701345PMYF_JPEG/movie_image.jpg",
+			"description": "사춘기 소녀 클로이는 내키지 않는 새 집에 이사 온 뒤,\n그 곳에서 수상한 일곱 요정과 신비한 보석 ‘키스톤’을 발견한다.\n친구를 사귀고 싶은 클로이는 친해지고 싶은 학교의 ‘인싸’ 브리트니에게\n‘키스톤’을 빌려 주고, 밤이 되자 움직이기 시작한 요정들은\n새 집과 ‘키스톤’에 얽힌 놀라운 비밀을 들려주게 되는데…\n키스톤을 잃어버린 후, 클로이의 새 집은\n먹보대장 외계 몬스터 ‘트로그’의 습격으로 아수라장이 되어버린다.\n\n과연 클로이와 일곱 요정들은 몬스터들로부터 집을 무사히 지켜낼 수 있을까?!",
+			"director": "피터 레페니오티스|",
+			"actor": "베키 지|조쉬 펙|올리비아 홀트|",
+			"score": 8.0,
+			"rating": "전체관람가",
+			"audience": 58604,
+			"openDt": 20191003,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/GE-hCaCXA8g"
+		}
+	},
+	{
+		"id": 17,
+		"model": "movies.movie",
+		"fields": {
+			"title": "소피와 드래곤: 마법책의 비밀",
+			"image": "https://movie-phinf.pstatic.net/20190919_209/1568876972996ADcJA_JPEG/movie_image.jpg",
+			"description": "평화로운 왕국의 말괄량이 공주 ‘소피’언제나 명랑해 보이지만 어릴 적 잃어버린 엄마를 매일 그리워하는, 외로운 소녀이기도 하다.일곱 살 생일을 맞이한 어느 날 ‘소피’는호시탐탐 왕의 자리를 노리는 ‘발타샤’의 눈을 피해궁전 안에서 놀거리를 찾던 중신비한 마법의 책을 발견한다!호기심에 가득 찬 ‘소피’가 마법의 책을 펼치자 풍덩! 책 속으로 빠져 들어가게 되고, 신기한 동물과 아름다운 식물로 가득한 환상의 세계로 건너가꼬마 드래곤 ‘드랙스’를 만나게 된다! 매일 밤 마법의 책 속으로 들어가 드래곤 ‘드랙스’와 뛰놀던 ‘소피’는원하는 모든 것을 보여 준다는 마법 거울의 비밀을 알게 되는데…‘소피’는 과연 마법 거울로 사라진 엄마를 찾고 ‘발타샤’로부터 왕국을 지켜낼 수 있을까?!",
+			"director": "마리나 네페도바|",
+			"actor": "정유정|김명준|",
+			"score": 4.23,
+			"rating": "전체관람가",
+			"audience": 90886,
+			"openDt": 20191002,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/Runedk28UIc"
+		}
+	},
+	{
+		"id": 18,
+		"model": "movies.movie",
+		"fields": {
+			"title": "잃어버린 세계를 찾아서",
+			"image": "https://movie-phinf.pstatic.net/20190927_252/1569562989198R5nz0_JPEG/movie_image.jpg",
+			"description": "예티, 빅풋, 사스콰치라 불리는 전설의 동물유일하게 살아남은 ‘Mr. 링크’는 지구 반 바퀴 너머에 있는일명 잃어버린 세계 ‘샹그릴라’에서 동족의 흔적이 발견됐다는 사실을 알게 된다한편, 자칭 세계 최고의 탐험가라 주장하는 ‘라이오넬’전설의 동물 ‘빅풋’을 목격했다는 편지 한 통을 받고 북아메리카로 향한다그리고 진짜로 만나게 된 전설의 동물은… 바로 ‘Mr. 링크’!오랜 시간 숨어 살아온 ‘링크’에게는가족을 찾기 위해 탐험가 ‘라이오넬’의 도움이 절실한 상황!우여곡절 끝에 둘은 함께 모험을 떠나게 되는데…미국 찍고! 유럽 돌고! 아시아 넘어! 링크와 라이오넬의 스펙터클! 글로벌 어드벤처가 시작된다!",
+			"director": "크리스 버틀러|",
+			"actor": "휴 잭맨|조 샐다나|자흐 갈리피아나키스|엠마 톰슨|",
+			"score": 8.33,
+			"rating": "전체관람가",
+			"audience": 17510,
+			"openDt": 20191009,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/YMc6oiIWqIg"
+		}
+	},
+	{
+		"id": 19,
+		"model": "movies.movie",
+		"fields": {
+			"title": "판소리 복서",
+			"image": "https://movie-phinf.pstatic.net/20191010_138/1570683410320olmSU_JPEG/movie_image.jpg",
+			"description": "한때 복싱 챔피언 유망주로 화려하게 주목 받던 전직 프로복서 ‘병구’(엄태구). 그러나 한 순간의 지울 수 없는 실수로 복싱협회에서 영구 제명이 되어버린 그는 ‘박관장’(김희원)의 배려로 체육관의 허드렛일을 도맡아 하며 살아가고 있다. 다시 복싱을 시작하려는 마음은 있지만 설상가상 뇌세포가 손상되는 ‘펀치드렁크(punchdrunk)’ 진단까지 받게 된 ‘병구’. 어느 날 ‘병구’가 뿌린 전단지를 들고 체육관을 찾은 신입관원 ‘민지’(이혜리)는 복싱에 대한 ‘병구’의 순수한 열정을 발견하고 그의 든든한 지원군이 되어준다. ‘민지’의 응원에 잊고 있었던 미완의 꿈이자 자신만의 스타일인 ‘판소리 복싱’을 완성하기로 결심한 ‘병구’는 생애 마지막이 될지도 모를 가장 무모한 도전을 시작한다.",
+			"director": "정혁기|",
+			"actor": "엄태구|혜리|김희원|",
+			"score": 6.1,
+			"rating": "12세이상관람가",
+			"audience": 16827,
+			"openDt": 20191009,
+			"genres": [
+				11
+			],
+			"video": "https://www.youtube.com/embed/DDiIaFpPjxY"
+		}
+	},
+	{
+		"id": 20,
+		"model": "movies.movie",
+		"fields": {
+			"title": "원스 어폰 어 타임... 인 할리우드",
+			"image": "https://movie-phinf.pstatic.net/20191126_77/1574730867371pYEWz_JPEG/movie_image.jpg",
+			"description": "1969년 할리우드, 잊혀져 가는 액션스타 ‘릭 달튼’과 그의 스턴트 배우 겸 매니저인 ‘클리프 부스’는 \n과거의 영광을 되찾기 위해 고군분투하지만 새로운 스타들에 밀려 큰 성과를 거두진 못한다.\n\n그러던 어느 날 ‘릭’의 옆집에 할리우드에서 \n가장 핫한 ‘로만 폴란스키’ 감독과 배우 ‘샤론 테이트’ 부부가 이사 오자 \n‘릭’은 새로운 기회가 생길 수도 있다고 기뻐하지만 인사조차 나누지 못한다. \n\n형편상 더 이상 함께 일할 수 없게 된 ‘릭’과 ‘클리프’는 각자의 길을 가기로 하고 \n‘릭’의 집에서 술을 거나하게 마시던 중 뜻하지 않은 낯선 방문객을 맞이하게 되는데…",
+			"director": "쿠엔틴 타란티노|",
+			"actor": "레오나르도 디카프리오|브래드 피트|마고 로비|",
+			"score": 7.63,
+			"rating": "청소년관람불가",
+			"audience": 270172,
+			"openDt": 20190925,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/vGQCZfk9O9A"
+		}
+	},
+	{
+		"id": 21,
+		"model": "movies.movie",
+		"fields": {
+			"title": "두번할까요",
+			"image": "https://movie-phinf.pstatic.net/20190911_48/1568178486148N8Ajf_JPEG/movie_image.jpg",
+			"description": "꿈꿔왔던 싱글라이프 ‘현우’쪽팔림을 무릅쓰고 감행했던 이혼식 후, 드디어 싱글라이프 입성!꿈꿔왔던 자유를 되찾은 것도 잠시... 엑스와이프 '선영'이 다시 돌아왔다.게다가 옛 친구 '상철'까지 달고!원치않던 싱글라이프 ‘선영’꼭 해야만(?)했던 이혼식 후, 어쩌다 보니 싱글라이프 입성!원수 같던 '현우'와 헤어지긴 했지만 그 없이는 어려운 일 투성이다.그러던 어느 날, 모든 게 완벽한 '상철'이 나타났다!끝내고픈 싱글라이프 ‘상철’이상형 '선영'과의 강렬한(!) 만남 후, 잘만하면 싱글라이프 청산 가능!얼굴, 능력 다 되지만 연애는 어떻게 하는 건지 도통 모르겠다.별 수 없이 연애 상담을 위해 '현우'를 찾아가는데!다시 얽혀버린 세 남녀의 출구 없는 싱글라이프가 펼쳐진다!",
+			"director": "박용집|",
+			"actor": "권상우|이정현|이종혁|",
+			"score": 5.07,
+			"rating": "15세이상관람가",
+			"audience": 169448,
+			"openDt": 20191017,
+			"genres": [
+				11
+			],
+			"video": "https://www.youtube.com/embed/HHS26meGktg"
+		}
+	},
+	{
+		"id": 22,
+		"model": "movies.movie",
+		"fields": {
+			"title": "너를 만난 여름",
+			"image": "https://movie-phinf.pstatic.net/20191016_285/1571192929545vzti3_JPEG/movie_image.jpg",
+			"description": "열일곱, 모든 게 서툴고 어설프지만 모든 게 좋았던 시간.\n너 ♡ 나 = 최고의 우리\n내가 가장 좋아하는 계절은\n\n‘너를 만난 여름’",
+			"director": "장적사|",
+			"actor": "진비우|하람두|",
+			"score": 8.2,
+			"rating": "12세이상관람가",
+			"audience": 19205,
+			"openDt": 20191016,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/Voy8AhoxY04"
+		}
+	},
+	{
+		"id": 23,
+		"model": "movies.movie",
+		"fields": {
+			"title": "버티고",
+			"image": "https://movie-phinf.pstatic.net/20190924_275/1569292986272H5Cbe_JPEG/movie_image.jpg",
+			"description": "현기증 나는 고층빌딩 숲 사무실에서 매일을 위태롭게 버티고 있는 30대 직장인 ‘서영’(천우희),안정적인 삶을 원하지만 현실은 속수무책으로 흔들거린다.불안정한 계약직 생활, 비밀사내 연애 중인 연인 ‘진수’(유태오)와의 불안한 관계, 밤마다 시달리는 엄마의 전화까지... 더 이상 버틸 수 없다고 느낀 그녀가 무너져내릴 때, 창 밖에서 로프에 매달린 채 그녀를 지켜보는 남자 ‘관우’(정재광)를 마주하게 된다.“괜찮아요, 당신은 절대 떨어지지 않아요”",
+			"director": "전계수|",
+			"actor": "천우희|유태오|정재광|",
+			"score": 6.27,
+			"rating": "15세이상관람가",
+			"audience": 11161,
+			"openDt": 20191016,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/z-RHL1F2XLM"
+		}
+	},
+	{
+		"id": 24,
+		"model": "movies.movie",
+		"fields": {
+			"title": "빅트립: 아기팬더 배달 대모험",
+			"image": "https://movie-phinf.pstatic.net/20191017_296/157128739088119KRu_JPEG/movie_image.jpg",
+			"description": "혼자 조용히 지내는 게 가장 편한 까칠한 집돌이 곰 '믹믹' 앞에 어느 날, 엄마에게 배달되어야 할 귀염뽀짝 아기 팬더가 잘못 배송된다.\n사고를 해결하기 위해 호기심지수 200% 천방지축 트러블 메이커 '오스카'(토끼), 부리에 엔진을 장착한 투머치토커 '듀크'(펠리칸), 겁 많은 두 얼굴의 쫄보 '야누스'(늑대), 꽃을 사랑하는 외로운 감성시인 '아무르'(호랑이)까지 합류하면서 야생 월드 역사상 가장 확실한 서비스의 애니멀 특송단이 완성되고, 아기 팬더의 엄마를 찾아주기 위한 이들의 거대한 모험이 시작되는데…\n\n아기 팬더의 엄마를 찾기 위해 배달의 동물들이 떴다!",
+			"director": "바실리 로벤스키|",
+			"actor": "한으뜸|장다운|",
+			"score": 7.63,
+			"rating": "전체관람가",
+			"audience": 32728,
+			"openDt": 20191023,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/e_okNW5WyTw"
+		}
+	},
+	{
+		"id": 25,
+		"model": "movies.movie",
+		"fields": {
+			"title": "더 킹: 헨리 5세",
+			"image": "https://movie-phinf.pstatic.net/20191016_245/15711911283788LM49_JPEG/movie_image.jpg",
+			"description": "자유롭게 살아가던 왕자 할이 왕좌에 올라 전쟁으로 혼란에 빠진 영국의 운명을 짊어지며 위대한 왕으로 변모해가는 과정을 그린 영화",
+			"director": "데이비드 미쇼|",
+			"actor": "티모시 샬라메|조엘 에저튼|",
+			"score": 8.56,
+			"rating": "청소년관람불가",
+			"audience": 10727,
+			"openDt": 20191023,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/f5iRpsiDHrU"
+		}
+	},
+	{
+		"id": 26,
+		"model": "movies.movie",
+		"fields": {
+			"title": "블랙머니",
+			"image": "https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg",
+			"description": "일명 서울지검 ‘막프로’! 검찰 내에서 거침없이 막 나가는 문제적 검사로 이름을 날리는 ‘양민혁’은 자신이 조사를 담당한 피의자가 자살하는 사건으로 인해 하루 아침에 벼랑 끝에 내몰린다. 억울한 누명을 벗기 위해 내막을 파헤치던 그는 피의자가 대한은행 헐값 매각사건의 중요 증인이었음을 알게 된다. 근거는 의문의 팩스 5장! 자산가치 70조 은행이 1조 7천억원에 넘어간 희대의 사건 앞에서 ‘양민혁’ 검사는 금융감독원, 대형 로펌, 해외펀드 회사가 뒤얽힌 거대한 금융 비리의 실체와 마주하게 되는데… 대한민국 최대의 금융스캔들, 사건은 아직 끝나지 않았다!",
+			"director": "정지영|",
+			"actor": "조진웅|이하늬|",
+			"score": 8.55,
+			"rating": "12세이상관람가",
+			"audience": 13986,
+			"openDt": 20191113,
+			"genres": [
+				16
+			],
+			"video": "https://www.youtube.com/embed/alSU8mnZCaM"
+		}
+	},
+	{
+		"id": 27,
+		"model": "movies.movie",
+		"fields": {
+			"title": "빅 2: 황금열쇠 대소동",
+			"image": "https://movie-phinf.pstatic.net/20191018_13/1571375554318TmD8q_JPEG/movie_image.jpg",
+			"description": "북극을 지키고 새로운 왕이 된 ‘빅’에게\n만능 황금열쇠를 선물한 뉴욕시!\n\n한편, 그날 저녁 은행의 금고가 털리는 사건이 발생하고,\n‘빅’이 사건의 용의자로 누명을 쓰게 된다.\n\n한순간에 영웅에서 악당이 될 위기에 몰린 빅!\n\n하지만 ‘빅’에게는 귀염 뽀짝 북극 삼총사 ‘레밍스’와\n자신을 믿어 주는 뉴욕시의 친구들이 있다!\n\n과연, ‘빅’은 누명을 벗고, 진짜 범인을 찾을 수 있을까?",
+			"director": "팀 맬트비|",
+			"actor": "서반석|김보나|이다은|최정윤|",
+			"score": 6.88,
+			"rating": "전체관람가",
+			"audience": 11152,
+			"openDt": 20191030,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/FMtth_rKMSM"
+		}
+	},
+	{
+		"id": 28,
+		"model": "movies.movie",
+		"fields": {
+			"title": "유열의 음악앨범",
+			"image": "https://movie-phinf.pstatic.net/20190806_57/1565060277522KjSpd_JPEG/movie_image.jpg",
+			"description": "\"오늘 기적이 일어났어요.\"1994년 가수 유열이 라디오 DJ를 처음 진행하던 날,엄마가 남겨준 빵집에서 일하던 미수(김고은)는 우연히 찾아 온 현우(정해인)를 만나 설레는 감정을 느끼게 되지만 뜻하지 않은 사건으로 인해 연락이 끊기게 된다.\"그때, 나는 네가 돌아오지 않을 거라고 생각했어. 그래도 기다렸는데…\"다시 기적처럼 마주친 두 사람은 설렘과 애틋함 사이에서 마음을 키워 가지만 서로의 상황과 시간은 자꾸 어긋나기만 한다.계속되는 엇갈림 속에서도 라디오 ‘유열의 음악앨범’과 함께 우연과 필연을 반복하는 두 사람… 함께 듣던 라디오처럼 그들은 서로의 주파수를 맞출 수 있을까?",
+			"director": "정지우|",
+			"actor": "김고은|정해인|",
+			"score": 6.09,
+			"rating": "12세이상관람가",
+			"audience": 1225554,
+			"openDt": 20190828,
+			"genres": [
+				5
+			],
+			"video": "https://www.youtube.com/embed/6WQNr2wYDRA"
+		}
+	},
+	{
+		"id": 29,
+		"model": "movies.movie",
+		"fields": {
+			"title": "그것: 두 번째 이야기",
+			"image": "https://movie-phinf.pstatic.net/20190828_206/1566967731041eErbg_JPEG/movie_image.jpg",
+			"description": "27년마다 아이들이 사라지는 마을 데리, 또 다시 ‘그것’이 나타났다.\n27년 전, 가장 무서워하는 것의 모습으로 나타나 아이들을 잡아먹는 그것 페니와이즈에 맞섰던 ‘루저 클럽’ 친구들은 어른이 되어도 더 커져만 가는 그것의 공포를 끝내기 위해 피할 수 없는 마지막 대결에 나선다.",
+			"director": "안드레스 무시에티|",
+			"actor": "빌 스카스가드|제임스 맥어보이|제시카 차스테인|",
+			"score": 6.21,
+			"rating": "15세이상관람가",
+			"audience": 584467,
+			"openDt": 20190904,
+			"genres": [
+				7
+			],
+			"video": "https://www.youtube.com/embed/wJkfvz_-aUc"
+		}
+	},
+	{
+		"id": 30,
+		"model": "movies.movie",
+		"fields": {
+			"title": "극장판 헬로카봇 : 달나라를 구해줘!",
+			"image": "https://movie-phinf.pstatic.net/20190809_188/1565339488370yCW90_JPEG/movie_image.jpg",
+			"description": "평화로웠던 지구에는 타워크레인, 우주정거장이 사라지고,\n달의 뒷면에서 살던 토끼족 마을은 외계 로봇의 공격으로 위기에 처하게 된다.\n이 모든 것은 바로 지구를 정복하려는 치올라 외계인들의 공격이었던 것!\n\n평화를 수호하는 차탄과 카봇들은 달을 넘어 지구까지 혼란에 빠뜨린 \n치올라 외계 군단에 맞서기 위해 달나라로 떠나게 되는데…!\n\n지구와 달을 구하기 위한 \n카봇과 토끼족들의 지상최대 연합작전이 시작된다!",
+			"director": "최신규|김진철|",
+			"actor": "이지현|김용준|양정화|조경이|",
+			"score": 7.51,
+			"rating": "전체관람가",
+			"audience": 558571,
+			"openDt": 20190904,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/ACBOqZuGvgo"
+		}
+	},
+	{
+		"id": 31,
+		"model": "movies.movie",
+		"fields": {
+			"title": "엑시트",
+			"image": "https://movie-phinf.pstatic.net/20190724_161/1563931152464tk11A_JPEG/movie_image.jpg",
+			"description": "대학교 산악 동아리 에이스 출신이지만졸업 후 몇 년째 취업 실패로 눈칫밥만 먹는 용남은온 가족이 참석한 어머니의 칠순 잔치에서연회장 직원으로 취업한 동아리 후배 의주를 만난다어색한 재회도 잠시, 칠순 잔치가 무르익던 중의문의 연기가 빌딩에서 피어 오르며피할 새도 없이 순식간에 도심 전체는 유독가스로 뒤덮여 일대혼란에 휩싸이게 된다.용남과 의주는 산악 동아리 시절 쌓아 뒀던 모든 체력과 스킬을 동원해탈출을 향한 기지를 발휘하기 시작하는데…",
+			"director": "이상근|",
+			"actor": "조정석|윤아|",
+			"score": 8.3,
+			"rating": "12세이상관람가",
+			"audience": 9407843,
+			"openDt": 20190731,
+			"genres": [
+				11
+			],
+			"video": "https://www.youtube.com/embed/li4jOV5j7SI"
+		}
+	},
+	{
+		"id": 32,
+		"model": "movies.movie",
+		"fields": {
+			"title": "변신",
+			"image": "https://movie-phinf.pstatic.net/20190821_179/1566364206702zsxW4_JPEG/movie_image.jpg",
+			"description": "사람의 모습으로 변신하는 악마가 우리 가족 안에 숨어들면서기이하고 섬뜩한 사건들이 벌어진다서로 의심하고 증오하고 분노하는 가운데구마 사제인 삼촌 '중수'가 예고없이 찾아오는데…절대 믿지도 듣지도 마라",
+			"director": "김홍선|",
+			"actor": "배성우|성동일|장영남|김혜준|조이현|김강훈|",
+			"score": 6.8,
+			"rating": "15세이상관람가",
+			"audience": 1797796,
+			"openDt": 20190821,
+			"genres": [
+				4
+			],
+			"video": "https://www.youtube.com/embed/sEnhdvmg7lU"
+		}
+	},
+	{
+		"id": 33,
+		"model": "movies.movie",
+		"fields": {
+			"title": "분노의 질주: 홉스&쇼",
+			"image": "https://movie-phinf.pstatic.net/20190726_177/15641046254730gK1F_JPEG/movie_image.jpg",
+			"description": "공식적으로만 세상을 4번 구한 전직 베테랑 경찰 ‘루크 홉스’(드웨인 존슨)\n분노 조절 실패로 쫓겨난 전직 특수요원 ‘데카드 쇼’(제이슨 스타뎀)\n99.9% 완벽히 다른 두 남자는 전 세계를 위협하는 불가능한 미션을 해결하기 위해\n어쩔 수 없이 한 팀이 되고 마는데…",
+			"director": "데이빗 레이치|",
+			"actor": "드웨인 존슨|제이슨 스타뎀|이드리스 엘바|바네사 커비|",
+			"score": 7.83,
+			"rating": "12세이상관람가",
+			"audience": 3649860,
+			"openDt": 20190814,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/8qg9A_vUH38"
+		}
+	},
+	{
+		"id": 34,
+		"model": "movies.movie",
+		"fields": {
+			"title": "47미터 2",
+			"image": "https://movie-phinf.pstatic.net/20190828_168/1566978748244QCEtz_JPEG/movie_image.jpg",
+			"description": "물에 잠긴 고대 마야의 수중도시 '시발바'를 향해\n짜릿한 동굴 다이빙에 나선 '미아'와 친구들은\n예기치 못한 사고로 미로 같은 동굴 속에 갇혀 헤매던 중\n오랜 시간 굶주린 블라인드 샤크와 맞닥뜨리게 된다.\n\n산소도, 탈출구도 없는 칠흑 같은 어둠 속에 갇힌 이들은\n눈 보다 예민한 제3의 감각으로 좁혀오는 상어떼를 피해\n목숨을 건 극한의 숨바꼭질을 시작하는데..",
+			"director": "요하네스 로버츠|",
+			"actor": "소피 넬리스|시스틴 로즈 스탤론|브리안느 쥬|코린 폭스|",
+			"score": 7.0,
+			"rating": "15세이상관람가",
+			"audience": 440356,
+			"openDt": 20190828,
+			"genres": [
+				4
+			],
+			"video": "https://www.youtube.com/embed/bKld2z8MUe8"
+		}
+	},
+	{
+		"id": 35,
+		"model": "movies.movie",
+		"fields": {
+			"title": "봉오동 전투",
+			"image": "https://movie-phinf.pstatic.net/20190719_213/1563513194134ksAGD_JPEG/movie_image.jpg",
+			"description": "1919년 3.1운동 이후 봉오동 일대에서 독립군의 무장항쟁이 활발해진다.일본은 신식 무기로 무장한 월강추격대를 필두로 독립군 토벌 작전을 시작하고,독립군은 불리한 상황을 이겨내기 위해 봉오동 지형을 활용하기로 한다.항일대도를 휘두르는 비범한 칼솜씨의 해철(유해진)과 발 빠른 독립군 분대장 장하(류준열)그리고 해철의 오른팔이자 날쌘 저격수 병구(조우진)는빗발치는 총탄과 포위망을 뚫고 죽음의 골짜기로 일본군을 유인한다.계곡과 능선을 넘나들며 귀신같은 움직임과 예측할 수 없는 지략을 펼치는 독립군의 활약에일본군은 당황하기 시작하는데...1920년 6월, 역사에 기록된 독립군의 첫 승리봉오동 죽음의 골짜기에 묻혔던 이야기가 지금부터 시작된다.",
+			"director": "원신연|",
+			"actor": "유해진|류준열|조우진|",
+			"score": 7.9,
+			"rating": "15세이상관람가",
+			"audience": 4767092,
+			"openDt": 20190807,
+			"genres": [
+				21
+			],
+			"video": "https://www.youtube.com/embed/JpjxVKYssxQ"
+		}
+	},
+	{
+		"id": 36,
+		"model": "movies.movie",
+		"fields": {
+			"title": "안녕 베일리",
+			"image": "https://movie-phinf.pstatic.net/20190905_154/1567669527591DgewY_JPEG/movie_image.jpg",
+			"description": "“함께라서 행복해”\n환생만 벌써 5번째! 도무지 끝날 줄 모르는 ‘베일리’의 삶에 새로운 미션이 생겼다?! \n바로 ‘이든’의 작은 베이비 ‘씨제이’를 돌보는 것.\n\n“옆에 있어줘서 고마워”\n소꿉놀이도 해야 하고 위험한 곳에 들어가면 짖어서 알려줘야 하고, \n‘씨제이’와 함께 해야 할 일이 너무나도 많이 남았는데 \n‘씨제이’는 ‘베일리’와 ‘이든’의 곁을 떠나 도시로 향한다. \n7년 후 ‘몰리’로 다시 태어난 ‘베일리’는 우여곡절 끝에 ‘씨제이’의 집으로 입양되고 \n‘씨제이’가 행복할 때, 슬플 때, 외로울 때 항상 옆에 있어준다.\n\n“혼자 둬서 미안해”\n주유소의 ‘빅독’으로 다시 태어난 ‘베일리’. \n‘씨제이’를 만나기만을 기다리지만 우연히 만나게 된 ‘씨제이’는 \n‘베일리’를 알아보지 못하고 떠나버린다.\n\n“내 인생은 온통 너야. 사랑해”\n킁킁킁… 어디서 ‘씨제이’ 냄새 안나요? \n‘맥스’로 환생한 ‘베일리’는 오직 일견단심 ‘씨제이’를 기다리던 중 \n유기견 입양소에서 드디어 ‘씨제이’를 다시 만나게 된다.\n\n인생은 길고 견생은 짧다는데, 저 녀석을 끝까지 지켜줄 수 있을까?",
+			"director": "게일 맨쿠소|",
+			"actor": "헨리|캐서린 프레스콧|조시 게드|데니스 퀘이드|마그 헬젠버거|베티 길핀|",
+			"score": 9.38,
+			"rating": "전체관람가",
+			"audience": 39817,
+			"openDt": 20190905,
+			"genres": [
+				12
+			],
+			"video": "https://www.youtube.com/embed/fCN2Gh_40tE"
+		}
+	},
+	{
+		"id": 37,
+		"model": "movies.movie",
+		"fields": {
+			"title": "광대들: 풍문조작단",
+			"image": "https://movie-phinf.pstatic.net/20190723_30/1563861332950L3kzW_JPEG/movie_image.jpg",
+			"description": "조선 팔도를 무대로 풍문을 조작하고 민심을 뒤흔드는 광대패 5인방.어느 날 조선 최고의 권력자 ‘한명회’로부터 조카를 죽이고 왕이 된 ‘세조’의 미담을 만들어내라는 명을 받는다. 광대패의 리더 ‘덕호’와 무리들은 목숨을 걸고 지금껏 듣지도 보지도 못한 놀라운 판을 짜기 시작하는데…그들이 뜨는 순간, 역사가 뒤바뀐다!",
+			"director": "김주호|",
+			"actor": "조진웅|손현주|박희순|고창석|김슬기|윤박|김민석|",
+			"score": 6.36,
+			"rating": "12세이상관람가",
+			"audience": 632384,
+			"openDt": 20190821,
+			"genres": [
+				21
+			],
+			"video": "https://www.youtube.com/embed/7W3PzpUFpXk"
+		}
+	},
+	{
+		"id": 38,
+		"model": "movies.movie",
+		"fields": {
+			"title": "나쁜 녀석들: 더 무비",
+			"image": "https://movie-phinf.pstatic.net/20190910_213/1568079594808C8bae_JPEG/movie_image.jpg",
+			"description": "죄수들이 탈출했다!교도소 호송차량이 전복되고 최악의 범죄자들이 탈주하는 사상 초유의 사건이 발생한다.이에 경찰은 수감 중인 범죄자가 흉악범을 잡는 극비 프로젝트인 ‘특수범죄수사과’를 다시 소집한다.미친개... 다시 풉시다!‘오구탁’(김상중) 반장은 과거 함께 활약했던 전설의 주먹 ‘박웅철’(마동석)을 찾아가고, 감성 사기꾼 ‘곽노순’(김아중)과 전직 형사 ‘고유성’(장기용)을 영입해 새로운 팀을 구성한다.새로운 멤버들이 합류해 더욱 강력하고 치밀하고 독해진 나쁜 녀석들.이 사건을 파헤칠수록 배후에 거대한 범죄조직이 있다는 것을 직감한 그들은더 나쁜 놈들을 소탕하기 위해 움직이기 시작하는데…나쁜 녀석들의 법 없는 검거작전!놈들처럼 생각하고 놈들처럼 행동할 그들이 온다!",
+			"director": "손용호|",
+			"actor": "마동석|김상중|김아중|장기용|",
+			"score": 6.44,
+			"rating": "15세이상관람가",
+			"audience": 4556694,
+			"openDt": 20190911,
+			"genres": [
+				16
+			],
+			"video": "https://www.youtube.com/embed/1OJZSa5258A"
+		}
+	},
+	{
+		"id": 39,
+		"model": "movies.movie",
+		"fields": {
+			"title": "타짜: 원 아이드 잭",
+			"image": "https://movie-phinf.pstatic.net/20190823_200/1566544005806zhoyN_JPEG/movie_image.jpg",
+			"description": "전설적인 타짜 ‘짝귀’의 아들이자 고시생인 ‘일출’(박정민)은 공부에는 흥미가 없지만포커판에서는 날고 기는 실력자다. 포커판에서 우연히 알게 된 ‘마돈나’(최유화)의 묘한 매력에 빠져든 일출은그녀의 곁을 지키는 ‘이상무’(윤제문)에게 속아 포커의 쓴맛을 제대로 배운다.돈도 잃고 자존심까지 무너진 채 벼랑 끝에 몰린 도일출, 그의 앞에 정체불명의 타짜 ‘애꾸’(류승범)가 나타난다.거액이 걸린 거대한 판을 설계한 애꾸는 전국에서 타짜들을 불러모은다.일출을 시작으로 셔플의 제왕 까치(이광수), 남다른 연기력의 영미(임지연), 숨은 고수 권원장(권해효)까지무엇이든 될 수 있고, 누구든 이길 수 있는 ‘원 아이드 잭’ 팀으로 모인 이들, 인생을 바꿀 새로운 판에 뛰어드는데…베팅을 할 때는 인생을 걸어야지! 타짜니까!",
+			"director": "권오광|",
+			"actor": "박정민|류승범|최유화|",
+			"score": 5.35,
+			"rating": "청소년관람불가",
+			"audience": 2212819,
+			"openDt": 20190911,
+			"genres": [
+				16
+			],
+			"video": "https://www.youtube.com/embed/YnLtR9HT52U"
+		}
+	},
+	{
+		"id": 40,
+		"model": "movies.movie",
+		"fields": {
+			"title": "힘을 내요, 미스터 리",
+			"image": "https://movie-phinf.pstatic.net/20190828_246/1566958975223z5NAU_JPEG/movie_image.jpg",
+			"description": "가던 길도 멈추게 하는 심쿵 비주얼의 대복칼국수 반전미남 ‘철수’(차승원)완벽한 외모와 달리 아이보다 더 아이 같은 그의 앞에어느 날 어른보다 더 어른 같은 딸 ‘샛별’(엄채영)이 나타난다.오늘 처음 봤는데… 내 딸이라고???누구냐 넌?!마른하늘에 '딸'벼락 맞은철수의 미스터리한 정체가 밝혀진다!",
+			"director": "이계벽|",
+			"actor": "차승원|엄채영|박해준|",
+			"score": 7.57,
+			"rating": "12세이상관람가",
+			"audience": 1166190,
+			"openDt": 20190911,
+			"genres": [
+				11
+			],
+			"video": "https://www.youtube.com/embed/K3UVDmQYrb0"
+		}
+	},
+	{
+		"id": 41,
+		"model": "movies.movie",
+		"fields": {
+			"title": "극장판 반지의 비밀일기",
+			"image": "https://movie-phinf.pstatic.net/20190813_164/1565659009794mV0a3_JPEG/movie_image.jpg",
+			"description": "요즘 비가 오는 날이면 방울 소리와 함께친구들이 하나 둘 씩 사라지기 시작했다.그런데… 우리 아빠도 사라졌다! ㅠ_ㅠ베프 ‘응심이’ ‘냠냠이’와 아빠를 찾던 그때, 미스터리한 빵 장수가 나타나 순식간에 이상한 세계로 빨려 들어왔다!아이스크림 동산과 초콜릿 동굴이 있고슈크림 대마왕과 바게트 병사들이 지키는 달콤하고 수상한 여기는 도대체 어디지!?",
+			"director": "한승우|",
+			"actor": "방연지|김선혜|조경이|채민지|",
+			"score": 9.01,
+			"rating": "전체관람가",
+			"audience": 56299,
+			"openDt": 20190911,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/jhcdEnTIIRE"
+		}
+	},
+	{
+		"id": 42,
+		"model": "movies.movie",
+		"fields": {
+			"title": "애드 아스트라",
+			"image": "https://movie-phinf.pstatic.net/20190919_183/1568876212697Qu0O9_JPEG/movie_image.jpg",
+			"description": "미 육군 소령  ‘로이 맥브라이드’(브래드 피트)는\n우주의 지적생명체를 찾기 위한 ‘리마 프로젝트’를 수행하다 실종된 아버지를\n영웅이라 믿으며 우주 비행사의 꿈을 키웠다. \n\n어느 날, ‘로이’는 이상 현상으로 우주 안테나에서 지구로 추락하는 사고를 당하고\n인류를 위협할 전류 급증 현상인 이 ‘써지’ 사태가\n자신의 아버지가 벌인 위험한 실험에서 시작되었다는 이야기를 듣게 된다. \n\n믿고 있는 모든 것이 흔들린다!\n\n아버지가 살아 있다는 충격적인 사실과 함께\n그를 막아야 한다는 임무를 맡게 된 ‘로이’는 우주로 향하게 되는데…\n\n지금껏 본 적 없는 진짜 미래를 경험하라!",
+			"director": "제임스 그레이|",
+			"actor": "브래드 피트|",
+			"score": 7.25,
+			"rating": "12세이상관람가",
+			"audience": 508767,
+			"openDt": 20190919,
+			"genres": [
+				18
+			],
+			"video": "https://www.youtube.com/embed/XNSNti8q_UQ"
+		}
+	},
+	{
+		"id": 43,
+		"model": "movies.movie",
+		"fields": {
+			"title": "예스터데이",
+			"image": "https://movie-phinf.pstatic.net/20190819_234/1566190581134B42VL_JPEG/movie_image.jpg",
+			"description": "하루하루 힘겹게 음악을 하던 무명 뮤지션 잭. 모든 것을 포기하려던 순간, 전세계가 동시에 정전이 된다!\n다음 날 세상에선 비틀즈가 사라지고, 오직 잭만이 그들의 음악을 기억하게 된다.\n특별한 기회를 만난 잭은 세계적인 스타가 될 운명에 섰는데…",
+			"director": "대니 보일|",
+			"actor": "릴리 제임스|히메쉬 파텔|",
+			"score": 6.5,
+			"rating": "12세이상관람가",
+			"audience": 292246,
+			"openDt": 20190918,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/Cn_mOWRrmy0"
+		}
+	},
+	{
+		"id": 44,
+		"model": "movies.movie",
+		"fields": {
+			"title": "퍼펙트맨",
+			"image": "https://movie-phinf.pstatic.net/20190918_70/1568789034699xL82H_JPEG/movie_image.jpg",
+			"description": "퍼펙트한 인생을 위해 한탕을 꿈꾸는 건달 ‘영기’(조진웅)조직 보스의 돈 7억을 빼돌려 주식에 투자하지만, 사기꾼에게 속아 주식은 휴지조각이 되고 만다.목숨을 부지하기 위해 어떻게든 7억을 구해야 하는 영기 앞에까칠한 로펌 대표 ‘장수’(설경구)가 나타난다.두 달 시한부 ‘장수’는 자신이 해야 할 일들을 도와주는 조건으로영기에게 자신의 사망보험금을 내건 빅딜을 제안하는데…돈 쫌 많은 로펌 대표와 폼 쫌 잡는 꼴통 건달퍼펙트하게 다른 두 남자의 인생 최대 반전이 시작된다",
+			"director": "용수|",
+			"actor": "설경구|조진웅|",
+			"score": 7.86,
+			"rating": "15세이상관람가",
+			"audience": 664291,
+			"openDt": 20191002,
+			"genres": [
+				11
+			],
+			"video": "https://www.youtube.com/embed/gH6BVcn6Sbg"
+		}
+	},
+	{
+		"id": 45,
+		"model": "movies.movie",
+		"fields": {
+			"title": "벌새",
+			"image": "https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg",
+			"description": "1994년, 알 수 없는 거대한 세계와 마주한 14살 ‘은희’의아주- 보편적이고 가장- 찬란한 기억의 이야기",
+			"director": "김보라|",
+			"actor": "박지후|김새벽|",
+			"score": 8.9,
+			"rating": "15세이상관람가",
+			"audience": 93366,
+			"openDt": 20190829,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/oZx04hjEZCE"
+		}
+	},
+	{
+		"id": 46,
+		"model": "movies.movie",
+		"fields": {
+			"title": "장사리 : 잊혀진 영웅들",
+			"image": "https://movie-phinf.pstatic.net/20190821_138/1566362458427V6Usp_JPEG/movie_image.jpg",
+			"description": "인천상륙작전 D-1‘이명준’ 대위가 이끄는 유격대와 전투 경험이 없는 학도병들을 태운 문산호는인천상륙작전의 양동작전인 장사상륙작전을 위해 장사리로 향한다.평균나이 17세, 훈련기간 단 2주에 불과했던 772명 학도병들이 악천후 속에서 소나기처럼 쏟아지는 총알을 맞으며 상륙을 시도하는데…",
+			"director": "곽경택|김태훈|",
+			"actor": "김명민|최민호|김성철|김인권|곽시양|",
+			"score": 8.28,
+			"rating": "12세이상관람가",
+			"audience": 1038105,
+			"openDt": 20190925,
+			"genres": [
+				14
+			],
+			"video": "https://www.youtube.com/embed/KeEtLXYsUJI"
+		}
+	},
+	{
+		"id": 47,
+		"model": "movies.movie",
+		"fields": {
+			"title": "양자물리학",
+			"image": "https://movie-phinf.pstatic.net/20190925_5/1569399574648S2DUV_JPEG/movie_image.jpg",
+			"description": "‘생각이 현실을 만든다’라는 양자물리학적 신념을 인생의 모토로 삼은 유흥계의 화타 ‘이찬우’어느 날 유명 연예인이 연루된 마약 파티 사건을 눈치챈다.“불법 없이! 탈세 없이!” 이 바닥에서도 혁신이 일어나야 한다고 믿는 그는오랫동안 알고지낸 범죄정보과 계장 ‘박기헌’에게 이 정보를 흘린다.단순한 사건이라고 생각했던 마약파티가 연예계는 물론 검찰, 정치계까지 연루된 거대한 마약 스캔들임을 알게 된 '이찬우'.이제는 살기 위해 거대 권력과 맞서야 하는 상황.'이찬우’는 ‘박기헌’ 계장을 비롯해 황금인맥을 자랑하는 업계 퀸 ‘성은영’ 등 업계 에이스들과 함께 이 사건을 파헤치기로 한다.부패 권력에 통쾌하게 맞서라! 생각은 현실을 만드니까!",
+			"director": "이성태|",
+			"actor": "박해수|서예지|김상호|김응수|변희봉|김영재|이창훈|",
+			"score": 8.29,
+			"rating": "15세이상관람가",
+			"audience": 542651,
+			"openDt": 20190925,
+			"genres": [
+				16
+			],
+			"video": "https://www.youtube.com/embed/aHKkzWKyU1w"
+		}
+	},
+	{
+		"id": 48,
+		"model": "movies.movie",
+		"fields": {
+			"title": "더 룸",
+			"image": "https://movie-phinf.pstatic.net/20190904_1/1567563551810o0zkq_JPEG/movie_image.jpg",
+			"description": "말하는 대로 원하는 대로 다 들어주는 ‘비밀의 방’이 있다.\n돈, 다이아몬드, 최고급 샴페인, 반 고흐 걸작…\n원한다면 아기까지도.\n\n원하는 것은 뭐든 들어준다. \n단, 소원은 신중하게 빌 것!\n그리고 규칙을 반드시 지킬 것!",
+			"director": "크리스티안 볼크만|",
+			"actor": "올가 쿠릴렌코|케빈 얀센스|",
+			"score": 7.69,
+			"rating": "15세이상관람가",
+			"audience": 44682,
+			"openDt": 20190925,
+			"genres": [
+				13
+			],
+			"video": "https://www.youtube.com/embed/aHcy3A9WmME"
+		}
+	},
+	{
+		"id": 49,
+		"model": "movies.movie",
+		"fields": {
+			"title": "커런트 워",
+			"image": "https://movie-phinf.pstatic.net/20190726_271/1564103583891DUheV_JPEG/movie_image.jpg",
+			"description": "쇼맨십의 천재 ‘에디슨’과 상상력의 천재 ‘테슬라’\n그리고 협상의 천재 ‘인설’과 비즈니스의 천재 ‘웨스팅하우스’까지.\n4 명의 천재 3 번의 격돌\n2개의 전류 1명만이 역사가 된다!",
+			"director": "알폰소 고메즈-레존|",
+			"actor": "베네딕트 컴버배치|마이클 섀넌|니콜라스 홀트|톰 홀랜드|",
+			"score": 7.78,
+			"rating": "12세이상관람가",
+			"audience": 194259,
+			"openDt": 20190822,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/qAcON2zivwU"
+		}
+	},
+	{
+		"id": 50,
+		"model": "movies.movie",
+		"fields": {
+			"title": "레드슈즈",
+			"image": "https://movie-phinf.pstatic.net/20190725_193/1564022721149J72b7_JPEG/movie_image.jpg",
+			"description": "사건 사고가 끊이지 않는 동화의 섬. 사라진 아빠를 찾던 화이트 왕국의 공주는\n우연히 마법구두를 신고 이전과 완벽하게 다른 ‘레드슈즈’로 거듭난다.\n한편, 초록색 난쟁이가 된 일곱 왕자들은 우연히 자신들의 집에 머물게 된 '레드슈즈’가\n저주를 풀 유일한 희망이라 생각해 그녀를 돕기 시작하고, 영원한 아름다움을 꿈꾸는 왕비 ‘레지나’는\n마법구두를 신고 성을 빠져나간 ‘레드슈즈’를 쫓기 시작하는데…\n\n위기에 빠진 동화의 섬, \n레드슈즈, 그리고 일곱 왕자들의 운명은?",
+			"director": "홍성호|",
+			"actor": "클로이 모레츠|샘 클라플린|지나 거손|패트릭 워버튼|짐 래쉬|아바 콜커|안소이|신용우|전진아|권성혁|정재헌|최한|윤세웅|프레더릭 하멜|",
+			"score": 9.23,
+			"rating": "전체관람가",
+			"audience": 786502,
+			"openDt": 20190725,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/RxbejsuEA_I"
+		}
+	},
+	{
+		"id": 51,
+		"model": "movies.movie",
+		"fields": {
+			"title": "사자",
+			"image": "https://movie-phinf.pstatic.net/20190625_168/1561426986010A3uBi_JPEG/movie_image.jpg",
+			"description": "어릴 적 아버지를 잃은 뒤 세상에 대한 불신만 남은 격투기 챔피언 ‘용후’(박서준). 어느 날 원인을 알 수 없는 깊은 상처가 손바닥에 생긴 것을 발견하고,도움을 줄 누군가가 있다는 장소로 향한다.그곳에서 바티칸에서 온 구마사제 ‘안신부’(안성기)를 만나  자신의 상처 난 손에 특별한 힘이 있음을 깨닫게 되는 ‘용후’. 이를 통해 세상을 혼란에 빠뜨리는 악(惡)의 존재를 알게 되고,강력한 배후이자 악을 퍼뜨리는 검은 주교 ‘지신’(우도환)을 찾아 나선 ‘안신부’와 함께 하게 되는데...!악의 편에 설 것인가 악에 맞설 것인가 신의 사자가 온다!",
+			"director": "김주환|",
+			"actor": "박서준|안성기|우도환|",
+			"score": 6.89,
+			"rating": "15세이상관람가",
+			"audience": 1527726,
+			"openDt": 20190731,
+			"genres": [
+				13
+			],
+			"video": "https://www.youtube.com/embed/7goZV281oX0"
+		}
+	},
+	{
+		"id": 52,
+		"model": "movies.movie",
+		"fields": {
+			"title": "마이펫의 이중생활 2",
+			"image": "https://movie-phinf.pstatic.net/20190805_203/15649916739090lNjN_JPEG/movie_image.jpg",
+			"description": "집을 비우면 다시 시작되는 펫들의 시크릿 라이프!\n집구석 걱정에 하루도 편할 날이 없는 ‘맥스’ \n캣닢을 사랑하는 자유로운 영혼 ‘클로이’\n슈퍼히어로를 따라 하는 토끼 ‘스노우볼’\n완벽하게 고양이가 되고픈 강아지 ‘기젯’까지\n아직도 나만 몰랐던 마이펫들의 속마음이 공개된다!\n\n“우릴 키운다고? 그건 니 생각이고~”",
+			"director": "크리스 리노드|",
+			"actor": "패튼 오스왈트|에릭 스톤스트릿|케빈 하트|레이크 벨|제니 슬레이트|티파니 해디쉬|해리슨 포드|",
+			"score": 8.77,
+			"rating": "전체관람가",
+			"audience": 933513,
+			"openDt": 20190731,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/7yDQgAro3lQ"
+		}
+	},
+	{
+		"id": 53,
+		"model": "movies.movie",
+		"fields": {
+			"title": "브링 더 소울 : 더 무비",
+			"image": "https://movie-phinf.pstatic.net/20190628_71/1561688167127JBaHS_JPEG/movie_image.jpg",
+			"description": "서울을 시작으로 북미와 유럽까지 LOVE YOURSELF 투어를 마친 방탄소년단!\n전세계의 팬들과 함께 호흡하고 열광했던 유럽에서의 콘서트가 파리를 마지막으로 끝났다.\n\n그리고 모든 긴장이 풀어진 다음날, 파리의 작은 루프탑 테이블에서 멤버와 팬들에게 \n하지 못했던 그들만의 이야기를 나누는 작은 뒤풀이가 시작된다.\n\n방탄소년단의 솔직담백한 이야기를 한 테이블에 둘러 앉아 들을 수 있는\n설렘 가득한 시간이 펼쳐진다.",
+			"director": "박준수|",
+			"actor": "RM|진|슈가|제이홉|지민|뷔|정국|",
+			"score": 9.14,
+			"rating": "전체관람가",
+			"audience": 274064,
+			"openDt": 20190807,
+			"genres": [
+				22
+			],
+			"video": "https://www.youtube.com/embed/_K_nEC7umDs"
+		}
+	},
+	{
+		"id": 54,
+		"model": "movies.movie",
+		"fields": {
+			"title": "알라딘",
+			"image": "https://movie-phinf.pstatic.net/20190524_104/1558663170174Q2mmw_JPEG/movie_image.jpg",
+			"description": "머나먼 사막 속 신비의 아그라바 왕국의 시대.\n좀도둑 ‘알라딘’은 마법사 ‘자파’의 의뢰로 마법 램프를 찾아 나섰다가\n주인에게 세 가지 소원을 들어주는 지니를 만나게 되고,\n자스민 공주의 마음을 얻으려다 생각도 못했던 모험에 휘말리게 되는데…",
+			"director": "가이 리치|",
+			"actor": "나오미 스콧|윌 스미스|메나 마수드|",
+			"score": 9.38,
+			"rating": "전체관람가",
+			"audience": 12440282,
+			"openDt": 20190523,
+			"genres": [
+				20
+			],
+			"video": "https://www.youtube.com/embed/KrM3vS5sy2w"
+		}
+	},
+	{
+		"id": 55,
+		"model": "movies.movie",
+		"fields": {
+			"title": "라이온 킹",
+			"image": "https://movie-phinf.pstatic.net/20190718_5/156341294592540aB6_JPEG/movie_image.jpg",
+			"description": "어린 사자 ‘심바’는 프라이드 랜드의 왕인 아버지 ‘무파사’를\n야심과 욕망이 가득한 삼촌 ‘스카’의 음모로 잃고 왕국에서도 쫓겨난다.\n\n기억해라! 네가 누군지.\n\n아버지의 죽음에 대한 죄책감에 시달리던 ‘심바’는\n의욕 충만한 친구들 ‘품바’와 ‘티몬’의 도움으로 희망을 되찾는다. \n어느 날 우연히 옛 친구 ‘날라’를 만난 ‘심바’는 과거를 마주할 용기를 얻고, \n진정한 자신의 모습을 찾아 위대하고도 험난한 도전을 떠나게 되는데…",
+			"director": "존 파브로|",
+			"actor": "도날드 글로버|세스 로건|치웨텔 에지오포|제임스 얼 존스|빌리 아이크너|알프리 우다드|비욘세|",
+			"score": 8.27,
+			"rating": "전체관람가",
+			"audience": 4684247,
+			"openDt": 20190717,
+			"genres": [
+				20
+			],
+			"video": "https://www.youtube.com/embed/WkQ8AJWohIU"
+		}
+	},
+	{
+		"id": 56,
+		"model": "movies.movie",
+		"fields": {
+			"title": "앵그리 버드 2: 독수리 왕국의 침공",
+			"image": "https://movie-phinf.pstatic.net/20190801_34/1564649476625vBbh8_JPEG/movie_image.jpg",
+			"description": "호시탐탐 알을 탐내는 식신돼마왕 ‘레너드’를 물리치고\n아싸에서 인싸가 된 버드랜드의 악동 히어로 ‘레드’\n평생 앙숙인 이들에게 ‘공공의 적’이 나타났다!\n\n얼음 공격을 퍼붓는 이글랜드의 예민 보스\n‘제타’에 맞서기 위해 한 팀으로 뭉친 그들!\n과연 이들의 연합 작전은 성공할 수 있을까?\n\n어제는 적! 오늘은 친구? 아슬아슬한 팀플레이가 시작된다!",
+			"director": "서럽 밴 오먼|",
+			"actor": "아콰피나|피터 딘클리지|제이슨 서디키스|조시 게드|대니 맥브라이드|",
+			"score": 8.48,
+			"rating": "전체관람가",
+			"audience": 134529,
+			"openDt": 20190807,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/DX7OObwHdvg"
+		}
+	},
+	{
+		"id": 57,
+		"model": "movies.movie",
+		"fields": {
+			"title": "김복동",
+			"image": "https://movie-phinf.pstatic.net/20190717_63/1563342156136uRGBR_JPEG/movie_image.jpg",
+			"description": "일본의 사죄를 받기 위한 김복동 할머니의 27년 간의 기나긴 여정\n포기할 수 없고, 포기해서도 안 될 희망을 위한 싸움\n결코 잊어서는 안될, 아직 끝나지 않은 이야기\n“희망을 잡고 살자. 나는 희망을 잡고 살아”",
+			"director": "송원근|",
+			"actor": "<b>김복동</b>|한지민|",
+			"score": 8.84,
+			"rating": "12세이상관람가",
+			"audience": 29397,
+			"openDt": 20190808,
+			"genres": [
+				10
+			],
+			"video": "https://www.youtube.com/embed/r_GAXSAKBSg"
+		}
+	},
+	{
+		"id": 58,
+		"model": "movies.movie",
+		"fields": {
+			"title": "스파이더맨: 파 프롬 홈",
+			"image": "https://movie-phinf.pstatic.net/20190527_181/1558933159657a210P_JPEG/movie_image.jpg",
+			"description": "‘엔드게임’ 이후 변화된 세상,\n스파이더맨 ‘피터 파커’는 학교 친구들과 유럽 여행을 떠나게 된다.\n그런 그의 앞에 ‘닉 퓨리’가 등장해 도움을 요청하고\n정체불명의 조력자 ‘미스테리오’까지 합류하게 되면서\n전 세계를 위협하는 새로운 빌런 ‘엘리멘탈 크리쳐스’와 \n맞서야만 하는 상황에 놓이게 되는데…",
+			"director": "존 왓츠|",
+			"actor": "톰 홀랜드|사무엘 L. 잭슨|젠다야 콜맨|",
+			"score": 8.33,
+			"rating": "12세이상관람가",
+			"audience": 7499030,
+			"openDt": 20190702,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/9JtXwsyCqes"
+		}
+	},
+	{
+		"id": 59,
+		"model": "movies.movie",
+		"fields": {
+			"title": "토이 스토리 4",
+			"image": "https://movie-phinf.pstatic.net/20190611_117/1560221190708y3bbv_JPEG/movie_image.jpg",
+			"description": "장난감의 운명을 거부하고 떠난 새 친구 ‘포키’를 찾기 위해 길 위에 나선 ‘우디’는우연히 오랜 친구 ‘보핍’을 만나고 그녀를 통해 새로운 세상에 눈을 뜨게 된다.한편, ‘버즈’와 친구들은 사라진 ‘우디’와 ‘포키’를 찾아 세상 밖 위험천만한 모험을 떠나게 되는데…",
+			"director": "조시 쿨리|",
+			"actor": "톰 행크스|애니 파츠|토니 헤일|팀 알렌|",
+			"score": 9.05,
+			"rating": "전체관람가",
+			"audience": 3288383,
+			"openDt": 20190620,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/u8GQibRXVHg"
+		}
+	},
+	{
+		"id": 60,
+		"model": "movies.movie",
+		"fields": {
+			"title": "기생충",
+			"image": "https://movie-phinf.pstatic.net/20190528_36/1559024198386YVTEw_JPEG/movie_image.jpg",
+			"description": "전원백수로 살 길 막막하지만 사이는 좋은 기택(송강호) 가족.장남 기우(최우식)에게 명문대생 친구가 연결시켜 준 고액 과외 자리는모처럼 싹튼 고정수입의 희망이다.온 가족의 도움과 기대 속에 박사장(이선균) 집으로 향하는 기우.글로벌 IT기업 CEO인 박사장의 저택에 도착하자젊고 아름다운 사모님 연교(조여정)가 기우를 맞이한다.그러나 이렇게 시작된 두 가족의 만남 뒤로, 걷잡을 수 없는 사건이 기다리고 있었으니…",
+			"director": "봉준호|",
+			"actor": "송강호|이선균|조여정|최우식|박소담|이정은|장혜진|",
+			"score": 8.47,
+			"rating": "15세이상관람가",
+			"audience": 10001320,
+			"openDt": 20190530,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/Q38h5XD4RKE"
+		}
+	},
+	{
+		"id": 61,
+		"model": "movies.movie",
+		"fields": {
+			"title": "기방도령",
+			"image": "https://movie-phinf.pstatic.net/20190617_165/15607469302864PYiu_JPEG/movie_image.jpg",
+			"description": "\"기왕지사 이리 된 김에 사업을 해보는 게 어떻겠소? 내가 기생이 되겠단 말입니다!\"수려한 용모와 뛰어난 기예, 여심을 꿰뚫어 보는 타고난 천성의 꽃도령 ‘허색’.그는 자신이 나고 자란 기방 ‘연풍각’이 폐업 위기에 처하자 조선 최초의 남자 기생이 되기로 결심한다.기방결의로 맺어진 25세 괴짜 도인 ‘육갑’과 함께 기획부터 홍보까지 환상의 호흡을 자랑하며단숨에 조선 최고의 여심스틸러로 등극한 ‘허색’. 입소문이 번지며 조선 사대부 여인들의 마음이 두근거리기 시작한다. 그러나, 승승장구한 것도 잠시예기치 못한 인물의 등장으로 잘 나가던 ‘허색’의 사업은 삐거덕거리기 시작하는데…",
+			"director": "남대중|",
+			"actor": "준호|정소민|최귀화|예지원|공명|",
+			"score": 5.62,
+			"rating": "15세이상관람가",
+			"audience": 278008,
+			"openDt": 20190710,
+			"genres": [
+				11
+			],
+			"video": "https://www.youtube.com/embed/qOtNIKem-Lo"
+		}
+	},
+	{
+		"id": 62,
+		"model": "movies.movie",
+		"fields": {
+			"title": "진범",
+			"image": "https://movie-phinf.pstatic.net/20190710_177/1562723708522aWIz7_JPEG/movie_image.jpg",
+			"description": "아내가 죽은 그날의 진실을 찾고 싶은 ‘영훈’(송새벽)과남편의 무죄를 밝히기 위해 그의 증언이 필요한 ‘다연’(유선).‘영훈’은 증언의 대가로 함께 진실을 찾자는 제안을 하고,‘다연’은 남편을 구하기 위해 ‘영훈’과 사건을 쫓기 시작한다.사건을 재구성하던 어느 날,‘다연’은 ‘영훈’의 집에서 사라진 증거를 발견하고,‘영훈’은 ‘다연’의 거짓말을 알게 된다.그렇게 진실에 다가갈수록서로를 향한 의심은 커져만 가는데…의심을 숨긴 위험한 공조가 시작된다!",
+			"director": "고정욱|",
+			"actor": "송새벽|유선|",
+			"score": 6.37,
+			"rating": "15세이상관람가",
+			"audience": 157393,
+			"openDt": 20190710,
+			"genres": [
+				7
+			],
+			"video": "https://www.youtube.com/embed/q-blypAUkjs"
+		}
+	},
+	{
+		"id": 63,
+		"model": "movies.movie",
+		"fields": {
+			"title": "사일런스",
+			"image": "https://movie-phinf.pstatic.net/20190626_98/1561512216216By1DR_JPEG/movie_image.jpg",
+			"description": "갑자기 알 수 없는 존재가 세상의 모든 소리를 집어 삼키고, 소리 내는 모든 인류는 공격을 당한다.\n청력을 잃은 소녀와 가족들만이 소리 없이 대화할 수 있는 그들만의 방법으로 살아남아 마지막 사투를 벌이게 되는데…\n\n공포가 들리는 순간, 거대한 재앙이 시작된다.",
+			"director": "존 R. 레오네티|",
+			"actor": "키에넌 시프카|스탠리 투치|",
+			"score": 5.45,
+			"rating": "15세이상관람가",
+			"audience": 43202,
+			"openDt": 20190717,
+			"genres": [
+				4
+			],
+			"video": "https://www.youtube.com/embed/7WSVjQiWf0M"
+		}
+	},
+	{
+		"id": 64,
+		"model": "movies.movie",
+		"fields": {
+			"title": "극장판 엉덩이 탐정: 화려한 사건 수첩",
+			"image": "https://movie-phinf.pstatic.net/20190703_81/1562118818582zl3bR_JPEG/movie_image.jpg",
+			"description": "평화로운 오후의 찻집, 엉덩이 탐정과 조수 브라운이 티타임을 즐기고 있을 때, \n큰 쇼핑백을 든 뿌우람 씨가 들어온다. \n마을에 새롭게 오픈하는 카레 가게의 사장인 뿌우람 씨는 \n카레 요리에 빠지면 안 되는 중요한 향신료 ‘알알살라’가 사라진 것을 알게 된다!\n“그게 없으면 카레를 만들 수 없어. 가게를 열 수 없어!” \n충격으로 쓰러진 뿌우람 씨를 보고 엉덩이 탐정이 일어난다. \n“저에게 맡겨 주십시오!”\n과연 엉덩이 탐정은 ‘화려한’ 추리로 사라진 향신료의 수수께끼에 다가설 수 있을까?\n\n<뿡뿡! 보라 부인의 암호 사건>도 함께 만나요!",
+			"director": "히라야마 미호|",
+			"actor": "김은아|소연|",
+			"score": 3.9,
+			"rating": "전체관람가",
+			"audience": 127100,
+			"openDt": 20190711,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/_eXP-oJd1ro"
+		}
+	},
+	{
+		"id": 65,
+		"model": "movies.movie",
+		"fields": {
+			"title": "미드소마",
+			"image": "https://movie-phinf.pstatic.net/20190830_183/1567127397617dYghD_JPEG/movie_image.jpg",
+			"description": "90년에 한 번, 9일 동안 열리는 미드소마에 초대된 6명의 친구들\n선택된 자만이 즐길 수 있는 충격과 공포의 축제가 다시 시작된다",
+			"director": "아리 에스터|",
+			"actor": "윌 폴터|플로렌스 퓨|윌리엄 잭슨 하퍼|잭 레이너|",
+			"score": 6.59,
+			"rating": "청소년관람불가",
+			"audience": 69036,
+			"openDt": 20190711,
+			"genres": [
+				4
+			],
+			"video": "https://www.youtube.com/embed/EAaeJ-IvVlk"
+		}
+	},
+	{
+		"id": 66,
+		"model": "movies.movie",
+		"fields": {
+			"title": "존 윅 3: 파라벨룸",
+			"image": "https://movie-phinf.pstatic.net/20190621_225/1561080456596qGGRl_JPEG/movie_image.jpg",
+			"description": "전설이 된 킬러 ‘존 윅’ (키아누 리브스).\n룰을 어긴 죄로 그에게 현상금 1,400만 불이 붙고,\n전 세계 모든 킬러의 총구가 그를 향한다.\n\n국제암살자연맹의 파문 조치가 내려진 그는\n아무런 보호도 받지 못한 채 시시각각 위험에 직면하고\n결국, 마지막 전쟁을 위해 ‘소피아’(할리 베리)를 찾아가는데…\n\n출구는 없다! 평화를 원한다면, 전쟁을 준비하라!",
+			"director": "채드 스타헬스키|",
+			"actor": "키아누 리브스|",
+			"score": 8.04,
+			"rating": "청소년관람불가",
+			"audience": 676161,
+			"openDt": 20190626,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/8R7Fb3kwKXI"
+		}
+	},
+	{
+		"id": 67,
+		"model": "movies.movie",
+		"fields": {
+			"title": "롱 리브 더 킹: 목포 영웅",
+			"image": "https://movie-phinf.pstatic.net/20190603_86/15595468699485F3e6_JPEG/movie_image.jpg",
+			"description": "거대 조직의 보스로 거침 없이 살고 있는 ‘장세출’은철거 용역으로 나간 재건설 반대 시위 현장에서 만난 강단 있는 변호사 ‘강소현’의 일침으로 그녀가 원하는 ‘좋은 사람’이 되기로 마음 먹는다.모든 것을 내려놓고 새사람이 되기 위해 노력하던 ‘장세출’은 우연히 버스 추락 사고에서 온 몸으로 시민을 구하며일약 목포 영웅으로 떠오르게 되고, 예기치 못한 사건으로 국회의원에 출마하게 된다.발로 뛰며 점점 시민의 마음을 움직인 ‘장세출’의 입지가 높아지자,목포에서 3선을 노리던 반대파 후보 ‘최만수’는 ‘장세출’을 눈엣가시로 여기고그를 저지하기 위해 ‘장세출’의 라이벌 조직 보스 ‘조광춘’과 손을 잡고 음모를 계획하는데…",
+			"director": "강윤성|",
+			"actor": "김래원|원진아|진선규|최귀화|",
+			"score": 7.57,
+			"rating": "15세이상관람가",
+			"audience": 1024456,
+			"openDt": 20190619,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/tKIGmBkBAmg"
+		}
+	},
+	{
+		"id": 68,
+		"model": "movies.movie",
+		"fields": {
+			"title": "애나벨 집으로",
+			"image": "https://movie-phinf.pstatic.net/20190613_283/1560393273235OGHFz_JPEG/movie_image.jpg",
+			"description": "퇴마사 워렌 부부는 저주 받은 인형 애나벨을 발견하고\n집에 있는 오컬트 뮤지엄 진열장에 격리시킨다.\n또 다른 초자연적인 현상을 연구하기 위해 워렌 부부가 떠난 사이,\n집에 남아있던 10살 딸 주디와 베이비시터는\n‘절대 들어가지 말라’는 경고를 어기고 마는데…\n탈출한 애나벨은 모든 악령들을 깨우고,\n잊을 수 없는 공포의 밤을 준비한다.",
+			"director": "게리 도버먼|",
+			"actor": "패트릭 윌슨|베라 파미가|맥케나 그레이스|매디슨 아이스먼|",
+			"score": 6.25,
+			"rating": "15세이상관람가",
+			"audience": 291328,
+			"openDt": 20190626,
+			"genres": [
+				4
+			],
+			"video": "https://www.youtube.com/embed/abmpELhAOqs"
+		}
+	},
+	{
+		"id": 69,
+		"model": "movies.movie",
+		"fields": {
+			"title": "비스트",
+			"image": "https://movie-phinf.pstatic.net/20190614_152/1560490156646QUAnI_JPEG/movie_image.jpg",
+			"description": "대한민국을 뒤흔든 희대의 살인사건이 발생하고, 수단과 방법을 가리지 않고 범인을 잡아온 강력반 에이스 ‘한수’(이성민)는후배 형사 '종찬'(최다니엘)과 범인을 잡기 위해 수사를 시작한다.한편, 마약 브로커 '춘배'(전혜진)는 살인을 은폐해주는 대가로 '한수'에게 살인마에 대한 결정적인 단서를 제공하고'한수'의 라이벌 형사 '민태'(유재명)가 이 사실을 눈치채면서사건은 걷잡을 수 없는 방향으로 흘러가는데...!살인마를 잡기 위해 살인을 감추다누가 진짜 괴물인가?WHO IS THE BEAST?",
+			"director": "이정호|",
+			"actor": "이성민|유재명|전혜진|최다니엘|",
+			"score": 5.21,
+			"rating": "15세이상관람가",
+			"audience": 177340,
+			"openDt": 20190626,
+			"genres": [
+				16
+			],
+			"video": "https://www.youtube.com/embed/8jYvFq_oAbk"
+		}
+	},
+	{
+		"id": 70,
+		"model": "movies.movie",
+		"fields": {
+			"title": "천로역정: 천국을 찾아서",
+			"image": "https://movie-phinf.pstatic.net/20190624_263/1561360740472v2Mfv_JPEG/movie_image.jpg",
+			"description": "희망도, 기쁨도 없는 멸망도시에서 살아가던 ‘크리스천’은\n어느 날, 한 권의 책을 통해 천국도시가 존재하며,\n곧 멸망도시가 불바다로 변할 것이라는 사실을 알게 된다.\n\n바깥세상은 죽음뿐이라는 모두의 만류를 뒤로하고\n‘크리스천’은 천국도시를 찾아서 모험의 길로 접어 드는데…",
+			"director": "로버트 페르난데스|",
+			"actor": "존 라이스 데이비스|벤 프라이스|",
+			"score": 8.72,
+			"rating": "전체관람가",
+			"audience": 199791,
+			"openDt": 20190613,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/RJY_q6oH9Tc"
+		}
+	},
+	{
+		"id": 71,
+		"model": "movies.movie",
+		"fields": {
+			"title": "마담 싸이코",
+			"image": "https://movie-phinf.pstatic.net/20190607_99/1559869665680SMDNA_JPEG/movie_image.jpg",
+			"description": "뉴욕에 살고 있는 젊은 여성 ‘프랜시스’는 지하철에서 주인 없는 핸드백을 줍는다. \n가방의 주인은 혼자 살고 있는 중년의 여인  ‘그레타’.\n\n엄마를 잃은 상실감에 빠져있던 프랜시스는 핸드백을 찾아주면서 그레타와 빠르게 가까워진다.\n저녁식사에 초대받은 프랜시스는 우연히 그레타가 핸드백을 미끼로 \n젊은 여성들과 친해진다는 소름끼치는 사실을 알게된다.\n\n그레타는 프랜시스를 집요하게 쫓아다니며 본색을 드러내기 시작하는데…",
+			"director": "닐 조단|",
+			"actor": "클로이 모레츠|이자벨 위페르|",
+			"score": 6.79,
+			"rating": "15세이상관람가",
+			"audience": 37437,
+			"openDt": 20190626,
+			"genres": [
+				4
+			],
+			"video": "https://www.youtube.com/embed/kiZTF2tgY4w"
+		}
+	},
+	{
+		"id": 72,
+		"model": "movies.movie",
+		"fields": {
+			"title": "맨 인 블랙: 인터내셔널",
+			"image": "https://movie-phinf.pstatic.net/20190607_19/1559868537841RhggT_JPEG/movie_image.jpg",
+			"description": "자신의 모습을 감추고 오랜 시간 지구를 위협해 온 외계인을 감시하는 MIB본부.\nMIB 본부에도 변화가 요구되면서 신입요원 에이전트 M(테사 톰슨)이 영입되고\nMIB 에이스 요원 에이전트 H(크리스 헴스워스)가 듀오로 결성 된다!\n그들에겐 MIB 내부의 스파이를 찾아야 하는 전대미문의 미션이 주어지는데…",
+			"director": "F. 게리 그레이|",
+			"actor": "크리스 헴스워스|테사 톰슨|",
+			"score": 5.12,
+			"rating": "12세이상관람가",
+			"audience": 843703,
+			"openDt": 20190612,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/q88puxM5PmI"
+		}
+	},
+	{
+		"id": 73,
+		"model": "movies.movie",
+		"fields": {
+			"title": "엑스맨: 다크 피닉스",
+			"image": "https://movie-phinf.pstatic.net/20190603_273/1559540193462sgsr5_JPEG/movie_image.jpg",
+			"description": "어린 시절 비극적 교통사고로 자신의 능력을 알게 된 진 그레이는\n자비에 영재학교에서 새로운 가족을 맞이하게 된다.\n엄청난 잠재적 능력을 지닌 그녀는 엑스맨으로 성장해 우주에서 구조 임무를 수행하던 중\n목숨을 잃을 뻔한 사고를 겪는다. 예기치 못한 사고 이후 폭주하는 힘과\n억눌려왔던 어둠에 눈을 뜨게 된 진 그레이는 엑스맨의 가장 강력하고 파괴적인 적,\n다크 피닉스로 변하게 된다. 프로페서 X는 물론 매그니토까지 능가하는 두려운 존재가 된 그녀 앞에\n힘을 이용하려는 미스터리한 외계 존재가 나타나 그녀를 뒤흔들고,\n지금까지 엑스맨이 이뤄온 모든 것들이 무너지는 가운데\n엑스맨은 사랑하는 친구이자 가장 강력한 적이 된 다크 피닉스와 맞서야 하는데…",
+			"director": "사이먼 킨버그|",
+			"actor": "소피 터너|제니퍼 로렌스|제임스 맥어보이|타이 쉐리던|마이클 패스벤더|니콜라스 홀트|제시카 차스테인|에반 피터스|",
+			"score": 5.99,
+			"rating": "12세이상관람가",
+			"audience": 737179,
+			"openDt": 20190605,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/PzpZ4aHMXVg"
+		}
+	},
+	{
+		"id": 74,
+		"model": "movies.movie",
+		"fields": {
+			"title": "이웃집 토토로",
+			"image": "https://movie-phinf.pstatic.net/20190507_131/1557194421303SpmS0_JPEG/movie_image.jpg",
+			"description": "도시를 떠나 시골로 이사 온 ‘사츠키’와 ‘메이’는 우연히 숲속에 살고 있는 신비로운 생명체 ‘토토로’를 만나 신비한 모험을 함께 한다. \n그러던 어느 날, 어머니의 병원에서 위태로운 소식이 도착하고 언니 ‘사츠키’가 정신없이 아빠에게 연락을 취하는 와중에 ‘메이’가 행방불명 되는데…",
+			"director": "미야자키 하야오|",
+			"actor": "히다카 노리코|사카모토 치카|타카기 히토시|",
+			"score": 9.26,
+			"rating": "전체관람가",
+			"audience": 101213,
+			"openDt": 20010728,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/yrqmx630BIA"
+		}
+	},
+	{
+		"id": 75,
+		"model": "movies.movie",
+		"fields": {
+			"title": "로켓맨",
+			"image": "https://movie-phinf.pstatic.net/20190530_202/15591815551051HrC1_JPEG/movie_image.jpg",
+			"description": "천재적인 음악성과 독보적인 노래로 세상을 뒤흔들며 대중을 사로잡은 ‘엘튼 존’(태런 에저튼).\n연이은 히트곡 발매와 환상적인 무대 퍼포먼스, 화려한 패션으로 가장 빛나는 시대의 아이콘으로 자리잡는다.\n그러나 인생 최고의 순간, 어린 시절부터 자신의 진가를 알아봐주지 못한 부모에 대한 상처와 사랑했던 친구의 배신에 무대 뒤에 숨겨진 또 다른 자신과 마주하게 되는데…",
+			"director": "덱스터 플레처|",
+			"actor": "태런 에저튼|",
+			"score": 8.06,
+			"rating": "15세이상관람가",
+			"audience": 72451,
+			"openDt": 20190605,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/9HSy7n-wA40"
+		}
+	},
+	{
+		"id": 76,
+		"model": "movies.movie",
+		"fields": {
+			"title": "악인전",
+			"image": "https://movie-phinf.pstatic.net/20190515_203/1557888285764Rvouz_JPEG/movie_image.jpg",
+			"description": "우연히 연쇄살인마의 표적이 되었다 살아난 조직 보스 장동수와 범인잡기에 혈안이 된 강력반 미친개 정태석. 타협할 수 없는 두 사람이 연쇄살인마 K를 잡기 위해 손잡는다. 표적은 하나, 룰도 하나!먼저 잡는 놈이 갖는다!",
+			"director": "이원태|",
+			"actor": "마동석|김무열|김성규|",
+			"score": 7.89,
+			"rating": "청소년관람불가",
+			"audience": 3346654,
+			"openDt": 20190515,
+			"genres": [
+				16
+			],
+			"video": "https://www.youtube.com/embed/nTTHP1apcGg"
+		}
+	},
+	{
+		"id": 77,
+		"model": "movies.movie",
+		"fields": {
+			"title": "고질라: 킹 오브 몬스터",
+			"image": "https://movie-phinf.pstatic.net/20190522_101/1558513130586yABHk_JPEG/movie_image.jpg",
+			"description": "고질라의 샌프란시스코 공격으로 인해 아들을 잃은 상처로 엠마와 마크, 딸 매디슨 가족은 슬픔 속에 살고 있다.\n미지의 생물을 연구하는 모나크 소속 과학자인 엠마는\n또 다른 공격에 대비해 거대 괴수와 소통하는 주파수를 발견한다.\n그러나 괴수들을 조종해 지구를 초토화 시키려는 테러 세력에게 딸 매디슨과 납치되고,\n주파수로 모스라, 로단, 기도라 등 고대 괴수들이 하나 둘 깨어난다.\n역대급 재난 상황에서 인류의 생존 자체조차 불투명해지고,\n여기에 강력한 고질라의 등장으로 괴수들의 대결은 새로운 국면을 맞이한다.\n또 다시 최악의 위기를 맞은 가족들은 어떻게든 함께 위험을 헤쳐나가야만 하는데...",
+			"director": "마이클 도허티|",
+			"actor": "밀리 바비 브라운|베라 파미가|카일 챈들러|",
+			"score": 6.94,
+			"rating": "12세이상관람가",
+			"audience": 352862,
+			"openDt": 20190529,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/66JAFm9ujDo"
+		}
+	},
+	{
+		"id": 78,
+		"model": "movies.movie",
+		"fields": {
+			"title": "빅샤크2: 해저2만리",
+			"image": "https://movie-phinf.pstatic.net/20190513_141/1557708939014UWLr2_JPEG/movie_image.jpg",
+			"description": "평화롭던 바다 왕국. 어느 날, 정체불명의 해저몬스터가 출몰해 화물선을 잇달아 파괴하며 바다왕국을 온통 공포로 몰아넣는다.용감한 아기상어 메이와 바닷속 친구들은 몬스터를 잡기 위해 동화 속 해저2만리로 탐험을 떠나기로 한다.하지만 탐험을 시작하기도 전에 메이가 그만 해저몬스터에게 납치되고 마는데…아빠상어 빅샤크와 꼬마잠수함 올리와 베스, 수달 보보, 그리고 해마친구들은 위험에 빠진 아기상어를 구하기 위해깊은 바다 밑 해저 2만리 속으로 신비하고도 짜릿한 모험을 시작한다!",
+			"director": "신우|",
+			"actor": "장병관|김소희|",
+			"score": 7.96,
+			"rating": "전체관람가",
+			"audience": 44189,
+			"openDt": 20190606,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/6Iq8EVQap4Y"
+		}
+	},
+	{
+		"id": 79,
+		"model": "movies.movie",
+		"fields": {
+			"title": "어벤져스: 엔드게임",
+			"image": "https://movie-phinf.pstatic.net/20190417_250/1555465284425i6WQE_JPEG/movie_image.jpg",
+			"description": "인피니티 워 이후 절반만 살아남은 지구마지막 희망이 된 어벤져스먼저 떠난 그들을 위해 모든 것을 걸었다!위대한 어벤져스운명을 바꿀 최후의 전쟁이 펼쳐진다!",
+			"director": "안소니 루소|조 루소|",
+			"actor": "로버트 다우니 주니어|크리스 에반스|크리스 헴스워스|마크 러팔로|스칼렛 요한슨|제레미 레너|돈 치들|폴 러드|브리 라슨|카렌 길런|브래들리 쿠퍼|조슈 브롤린|",
+			"score": 9.38,
+			"rating": "12세이상관람가",
+			"audience": 13875330,
+			"openDt": 20190424,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/PVP5ZJuI57c"
+		}
+	},
+	{
+		"id": 80,
+		"model": "movies.movie",
+		"fields": {
+			"title": "0.0MHz",
+			"image": "https://movie-phinf.pstatic.net/20190517_285/15580610094800liOI_JPEG/movie_image.jpg",
+			"description": "에디슨의 마지막 발명품, 유령 탐지기?“증명할 수 없는 미스터리란 없다”가지 말라는 곳에 가야 하는 이유가 있다세상에 일어나는 초자연 미스터리를 분석하는 동아리 0.0MHz 멤버들이 귀신을 부르는 주파수를 증명하기 위해 우하리의 한 흉가를 찾은 후 기이한 현상이 멈추지 않는데…",
+			"director": "유선동|",
+			"actor": "정은지|이성열|최윤영|신주환|정원창|",
+			"score": 5.01,
+			"rating": "15세이상관람가",
+			"audience": 133522,
+			"openDt": 20190529,
+			"genres": [
+				4
+			],
+			"video": "https://www.youtube.com/embed/DAiXnwskkhI"
+		}
+	},
+	{
+		"id": 81,
+		"model": "movies.movie",
+		"fields": {
+			"title": "명탐정 피카츄",
+			"image": "https://movie-phinf.pstatic.net/20190424_53/1556091565705XDpwg_JPEG/movie_image.jpg",
+			"description": "기억을 잃은 채 깨어난 피카츄, 난 누구? 여긴 어디? \n  유일한 단서는 탐정모자에 적힌 해리란 이름과 주소. \n  주소 속 아파트에서 자신의 말을 유일하게 알아 듣는, \n  실종된 해리의 아들 팀 굿맨을 만나게 된다. \n  명탐정의 촉으로 이건 그야말로 대.박.사.건! \n  사라진 아빠를 찾기 위해 피카츄와 떠나는 기상천외한 모험이 시작된다. \n  피카피카!",
+			"director": "롭 레터맨|",
+			"actor": "라이언 레이놀즈|저스티스 스미스|",
+			"score": 8.09,
+			"rating": "전체관람가",
+			"audience": 635128,
+			"openDt": 20190509,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/qY8IjzYOA8w"
+		}
+	},
+	{
+		"id": 82,
+		"model": "movies.movie",
+		"fields": {
+			"title": "배심원들",
+			"image": "",
+			"description": "밤늦게 귀가하는 여성을 강간했다는 죄목으로 기소된 어느 막노동자에 대한 재판. 최종 변론이 끝난 후 7명의 배심원들이 피고인의 유무죄를 놓고 각자의 편견을 드러내며 토론을 벌인다. \n\n제6회 속초국제장애인영화제 대상 (2019)\n제2회 제주혼듸독립영화제 배우 고서희 연기상 (2019)",
+			"director": "홍용호|",
+			"actor": "장유|고서희|",
+			"score": 0.0,
+			"rating": "12세이상관람가",
+			"audience": 192178,
+			"openDt": 20190515,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/pwFZFJD-PxY"
+		}
+	},
+	{
+		"id": 83,
+		"model": "movies.movie",
+		"fields": {
+			"title": "나의 특별한 형제",
+			"image": "https://movie-phinf.pstatic.net/20190404_182/1554340290133Khnb5_JPEG/movie_image.jpg",
+			"description": "비상한 두뇌를 가졌지만 동생 ‘동구’ 없이는 아무 데도 못 가는 형 ‘세하’(신하균),뛰어난 수영실력을 갖췄지만 형 ‘세하’ 없이는 아무것도 못 하는 동생 ‘동구’(이광수).이들은 피 한 방울 섞이지 않았지만 20년 동안 한 몸처럼 살아온 ‘특별한 형제’다.어느 날 형제의 보금자리 ‘책임의 집’을 운영하던 신부님이 돌아가시자모든 지원금이 끊기게 되고, 각각 다른 장애를 가진 두 사람은 헤어질 위기에 처하고 만다.세하는 ‘책임의 집’을 지키고 동구와 떨어지지 않기 위해구청 수영장 알바생이자 취준생 ‘미현’(이솜)을 수영코치로 영입하고,동구를 수영대회에 출전시켜 사람들의 이목을 집중시키는 데 성공한다.헤어지지 않을 수 있다는 희망을 본 것도 잠시,예상치 못한 인물이 형제 앞에 등장하면서 형제는 새로운 위기를 겪게 되는데...!",
+			"director": "육상효|",
+			"actor": "신하균|이광수|이솜|",
+			"score": 8.91,
+			"rating": "12세이상관람가",
+			"audience": 1430791,
+			"openDt": 20190501,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/FWC99G-Nz2Q"
+		}
+	},
+	{
+		"id": 84,
+		"model": "movies.movie",
+		"fields": {
+			"title": "뽀로로 극장판 보물섬 대모험",
+			"image": "https://movie-phinf.pstatic.net/20190329_266/15538347866861YXl3_JPEG/movie_image.jpg",
+			"description": "전설 속 보물을 찾아 떠난 뽀로로와 친구들은\n우연히 손에 넣은 지도를 따라 신비의 보물섬에 도착한다.\n\n그곳에서 사라진 실버 선장을 만나\n비밀을 간직한 보물섬의 수수께끼를 풀어내지만,\n악당 블랙 선장과 보물섬의 괴물로 인해 위기에 빠지는데...\n\n과연 뽀로로와 친구들은 전설의 보물을 찾을 수 있을까?",
+			"director": "김현호|윤창섭|",
+			"actor": "이선|이미자|김현지|홍소영|정미숙|김서영|김환진|남도형|정승욱|이장원|황창영|",
+			"score": 9.28,
+			"rating": "전체관람가",
+			"audience": 752508,
+			"openDt": 20190425,
+			"genres": [
+				15
+			],
+			"video": "https://www.youtube.com/embed/AWrJ202OdaA"
+		}
+	},
+	{
+		"id": 85,
+		"model": "movies.movie",
+		"fields": {
+			"title": "호텔 뭄바이",
+			"image": "https://movie-phinf.pstatic.net/20190415_275/1555310081472MmN8D_JPEG/movie_image.jpg",
+			"description": "100여 년 전통의 아름다운 초호화 호텔 타지는 오늘도 전 세계에서 온 수백 명의 사람들과 직원들로 북적인다.\n다양한 사람들이 호텔 안에서 저녁시간을 보내던 그 때 거대한 폭발음이 들리고 혼비백산한 인파가 호텔로 몰려온다.\n그리고 그들과 함께 커다란 배낭을 멘 젊은 청년 몇몇이 호텔로 들어오는데…",
+			"director": "안소니 마라스|",
+			"actor": "아미 해머|제이슨 아이삭스|데브 파텔|나자닌 보니아디|아누팜 커|",
+			"score": 9.09,
+			"rating": "15세이상관람가",
+			"audience": 61163,
+			"openDt": 20190508,
+			"genres": [
+				7
+			],
+			"video": "https://www.youtube.com/embed/pkoFwyESk44"
+		}
+	},
+	{
+		"id": 86,
+		"model": "movies.movie",
+		"fields": {
+			"title": "교회오빠",
+			"image": "https://movie-phinf.pstatic.net/20190327_111/15536621391952t7K8_JPEG/movie_image.jpg",
+			"description": "\"하나님, 저희 가정 이러다 다 죽게 생겼습니다. 주님 살려주세요…\"\n\n딸 아이를 출산하고, 산후조리원에서 나오는 날 들려온 남편의 4기 대장암 소식, \n갑작스러운 어머니의 죽음, 항암치료가 종료된 지 일주일도 채 안되어 알게 된 \n아내의 4기 혈액암… 잠시도 숨 쉴 틈 없이 밀려오는 고난에 부부는 깊은 탄식과 \n함께 기도로 매달리는 것밖에는 할 수 없었다. \n\n\"내 안의 나는 죽고 오직 예수님만 사는 삶…\"\n\n마치 '욥'과도 같은 인생. 이해할 수조차 없는 기막힌 상황에도 남편 이관희는 \n그 누구도 원망하지 않고 절대로 '주님'에 대한 신뢰를 거두지 않았다. \n삶과 죽음의 경계에 서 있는 그는 무엇을 바라보았을까. 어떻게 그런 고백을 할 수 있었을까.\n하루라도 더 '온전한' 삶을 살기 위해 몸부림쳐갔던 이관희 집사의 순전한 믿음이 스크린을 통해서 펼쳐진다.",
+			"director": "이호경|",
+			"actor": "이관희|오은주|이소연|",
+			"score": 9.27,
+			"rating": "전체관람가",
+			"audience": 21806,
+			"openDt": 20190516,
+			"genres": [
+				10
+			],
+			"video": "https://www.youtube.com/embed/oWb9xXhUBx0"
+		}
+	},
+	{
+		"id": 87,
+		"model": "movies.movie",
+		"fields": {
+			"title": "서스페리아",
+			"image": "https://movie-phinf.pstatic.net/20190417_110/1555462781236Tm1tq_JPEG/movie_image.jpg",
+			"description": "마담 블랑의 무용 아카데미에 들어가기 위해 미국에서 베를린으로 찾아온 소녀 수지\n그리고 그 곳에서 겪는 기이하고 놀라운 경험",
+			"director": "루카 구아다니노|",
+			"actor": "다코타 존슨|틸다 스윈튼|클로이 모레츠|미아 고스|",
+			"score": 6.87,
+			"rating": "청소년관람불가",
+			"audience": 19684,
+			"openDt": 20190516,
+			"genres": [
+				4
+			],
+			"video": "https://www.youtube.com/embed/Wse14DnxYwg"
+		}
+	},
+	{
+		"id": 88,
+		"model": "movies.movie",
+		"fields": {
+			"title": "요로나의 저주",
+			"image": "https://movie-phinf.pstatic.net/20190403_179/1554273944526iPln5_JPEG/movie_image.jpg",
+			"description": "1973년, 애나는 남편 없이 두 아이와 살고 있다. 사회복지사인 애나가 담당하던 한 여인의 아이들이 불의의 사고로 목숨을 잃자, 그녀는 이것이 ‘요로나’의 짓이라면서 애나에게도 똑같은 저주가 내릴 것이라 예언한다. \n어느 날부터인가 울음소리가 들려오고 의문의 존재가 아이들을 위협하는데... \n  \n전 세계가 벌벌 떤 최강 물귀신, \n요로나의 울음소리가 들리면 절대 벗어날 수 없다!",
+			"director": "마이클 차베즈|",
+			"actor": "린다 카델리니|",
+			"score": 6.82,
+			"rating": "15세이상관람가",
+			"audience": 197125,
+			"openDt": 20190417,
+			"genres": [
+				4
+			],
+			"video": "https://www.youtube.com/embed/shrhba5-v8A"
+		}
+	},
+	{
+		"id": 89,
+		"model": "movies.movie",
+		"fields": {
+			"title": "미성년",
+			"image": "https://movie-phinf.pstatic.net/20190411_137/1554973943268Tu8fN_JPEG/movie_image.jpg",
+			"description": "같은 학교 2학년 주리(김혜준)와 윤아(박세진)가 학교 옥상에서 만났다. 최근 주리의 아빠 대원(김윤석)과 윤아의 엄마 미희(김소진) 사이에 벌어진 일을 알게 된 두 사람.이 상황이 커지는 것을 막고 싶은 주리는 어떻게든 엄마 영주(염정아) 몰래 수습해보려 하지만윤아는 어른들 일에는 관심 없다며 엮이지 않으려 한다. 그 때, 떨어진 주리의 핸드폰을 뺏어든 윤아는 영주의 전화를 받아 그 동안 감춰왔던 엄청난 비밀을 폭로해 버리고, 이를 본 주리는 멘붕에 빠지게 되는데… 폭풍 같은 사건을 마주한 두 가족의 이야기가 시작된다.",
+			"director": "김윤석|",
+			"actor": "염정아|김소진|김혜준|박세진|김윤석|",
+			"score": 8.31,
+			"rating": "15세이상관람가",
+			"audience": 279305,
+			"openDt": 20190411,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/2r6FaDvHnb0"
+		}
+	},
+	{
+		"id": 90,
+		"model": "movies.movie",
+		"fields": {
+			"title": "크게 될 놈",
+			"image": "https://movie-phinf.pstatic.net/20190325_23/15534772166529TroP_JPEG/movie_image.jpg",
+			"description": "전라도 어느 섬마을, 기강과 기순 남매의 엄니 ‘순옥’(김해숙)깡다구 하나는 알아주는 순옥의 사고뭉치 아들 ‘기강’(손호준)“엄니, 두고 보소. 내가 어떤 놈이 돼서 돌아오는지”집을 나간 기강은 무모한 성공만을 꿈꾸다,결국 범죄자로 전락해 사형을 선고 받게 된다.정부는 엄정한 법집행을 이유로 사형집행을 발표하고,언제 죽을지 모른다는 불안과 공포로 자포자기한 기강에게평생 까막눈으로 살아온 엄니의 생애 첫 편지가 도착하는데……“세상이 아무리 욕해도… 나는 너를 사랑한다. 난 니 엄니께”",
+			"director": "강지은|",
+			"actor": "김해숙|손호준|",
+			"score": 8.8,
+			"rating": "15세이상관람가",
+			"audience": 90320,
+			"openDt": 20190418,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/_lHjdy-97m8"
+		}
+	},
+	{
+		"id": 91,
+		"model": "movies.movie",
+		"fields": {
+			"title": "캡틴 마블",
+			"image": "https://movie-phinf.pstatic.net/20190225_72/1551069530582h2huX_JPEG/movie_image.jpg",
+			"description": "1995년, 공군 파일럿 시절의 기억을 잃고\n크리족 전사로 살아가던 캐럴 댄버스(브리 라슨)가 지구에 불시착한다.\n쉴드 요원 닉 퓨리(사무엘 L. 잭슨)에게 발견되어 팀을 이룬 그들은\n지구로 향하는 더 큰 위협을 감지하고\n힘을 합쳐 전쟁을 끝내야 하는데…",
+			"director": "애너 보든|라이언 플렉|",
+			"actor": "브리 라슨|사무엘 L. 잭슨|벤 멘델슨|주드 로|",
+			"score": 6.74,
+			"rating": "12세이상관람가",
+			"audience": 5783218,
+			"openDt": 20190306,
+			"genres": [
+				19
+			],
+			"video": "https://www.youtube.com/embed/n1Xz13zlWWw"
+		}
+	},
+	{
+		"id": 92,
+		"model": "movies.movie",
+		"fields": {
+			"title": "노팅 힐",
+			"image": "https://movie-phinf.pstatic.net/20190325_31/1553488426511DoXdd_JPEG/movie_image.jpg",
+			"description": "세계적인 스타이자 지구상에서 가장 아름다운 여자 ‘애나 스콧’\n런던의 노팅 힐에서 여행 전문 서점을 운영하는 남자 ‘윌리엄 태커’\n아주 평범한 사랑을 기다리는 그녀와 너무 특별한 사랑이 두려운 그의 \n꿈 같은 로맨스가 다시, 시작된다! 여기 노팅 힐에서…",
+			"director": "로저 미첼|",
+			"actor": "줄리아 로버츠|휴 그랜트|",
+			"score": 9.07,
+			"rating": "12세관람가",
+			"audience": 49958,
+			"openDt": 19990703,
+			"genres": [
+				5
+			],
+			"video": "https://www.youtube.com/embed/gPhXjrDANGk"
+		}
+	},
+	{
+		"id": 93,
+		"model": "movies.movie",
+		"fields": {
+			"title": "돈",
+			"image": "https://movie-phinf.pstatic.net/20190708_138/15625514217470WvE3_JPEG/movie_image.jpg",
+			"description": "커다란 달이 유난히 낮게 뜬 어느 날, \n죽은 자들이 깨어난다.\n커피, 와인, 와이파이를 찾아 동네를 누비며 \n사람들을 공격하기 시작하는 좀비들.\n\n이제 마을의 평화는 경찰 클리프(빌 머레이)와 로니(아담 드라이버), 민디(클로에 세비니) \n그리고 장의사 젤다(틸다 스윈튼)에게 달려있다.",
+			"director": "짐 자무쉬|",
+			"actor": "아담 드라이버|클로에 세비니|빌 머레이|",
+			"score": 4.84,
+			"rating": "15세이상관람가",
+			"audience": 3388756,
+			"openDt": 20190320,
+			"genres": [
+				16
+			],
+			"video": "https://www.youtube.com/embed/wD8yeua-AnA"
+		}
+	},
+	{
+		"id": 94,
+		"model": "movies.movie",
+		"fields": {
+			"title": "바이스",
+			"image": "https://movie-phinf.pstatic.net/20190322_181/1553216483584eF8l2_JPEG/movie_image.jpg",
+			"description": "이것은 실화다, \n그는 역사상 가장 비밀스러운 권력자였으므로 \n혹은 실화에 가까운 이야기다.\n\n대기업의 CEO에서 펜타곤 수장을 거쳐\n미국 부통령까지 오른 딕 체니(크리스찬 베일).\n재임 시절, 보이지 않는 이면에서 그가 내린 결정들은 세계의 흐름을 바꿔 놓았고\n뒤바뀐 역사는 다시는 회복될 수 없는 시간에 묻혀버렸다.\n\n이제 그가 바꾼 글로벌한 역사의 변곡점들을 추적한다.",
+			"director": "아담 맥케이|",
+			"actor": "크리스찬 베일|에이미 아담스|스티브 카렐|",
+			"score": 8.73,
+			"rating": "15세이상관람가",
+			"audience": 131698,
+			"openDt": 20190411,
+			"genres": [
+				1
+			],
+			"video": "https://www.youtube.com/embed/dADG0wDs8_A"
+		}
+	}
+]

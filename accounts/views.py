@@ -2,7 +2,7 @@ from django.http import JsonResponse, HttpResponse
 from django.shortcuts import render, get_object_or_404
 from rest_framework.decorators import api_view, permission_classes, authentication_classes
 from rest_framework.permissions import AllowAny, IsAuthenticated
-from .serializers import UserSerializer
+from .serializers import UserSerializer, UserSerializer2
 from movies.serializers import MovieSerializer, ReviewSerializer
 from django.contrib.auth.forms import UserCreationForm
 from .models import User
@@ -41,7 +41,9 @@ def mypage(request, id):
     serializer = MovieSerializer(movies, many=True)
     reviews = user.review_set.all()
     serializer2 = ReviewSerializer(reviews, many=True)
+    serializer3 = UserSerializer2(user)
     context = {
+        'user': serializer3.data,
         'movies': serializer.data,
         'reviews': serializer2.data
     }

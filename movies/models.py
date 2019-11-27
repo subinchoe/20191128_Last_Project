@@ -21,11 +21,11 @@ class Movie(models.Model):
     score = models.FloatField()
     rating = models.CharField(max_length=50)
     audience = models.IntegerField()
-    open_year = models.IntegerField()
+    openDt = models.IntegerField()
+    video = models.CharField(max_length=400, blank=True)
     genres = models.ManyToManyField(Genre, related_name='movies')
     users = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='like_movies', blank=True)
     hashtags = models.ManyToManyField(HashTag, related_name='tagged_movie', blank=True)
-    video = models.CharField(max_length=400, blank=True)
     def __str__(self):
         return self.title
 

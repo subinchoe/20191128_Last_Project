@@ -11,7 +11,7 @@ class HashTagSerializer(serializers.ModelSerializer):
     # movies = serializers.PrimaryKeyRelatedField(queryset=Movie.objects.all(), many=True)
     class Meta:
         model = HashTag
-        fields = '__all__'
+        fields = ('id', 'content')
         
 class GenreSerializer(serializers.ModelSerializer):
     # movies = serializers.PrimaryKeyRelatedField(queryset=Movie.objects.all(), many=True)
@@ -19,8 +19,17 @@ class GenreSerializer(serializers.ModelSerializer):
         model = Genre
         fields = ('id', 'name', 'movies')
 
+class MovieSerializer(serializers.ModelSerializer):
+    # users = serializers.PrimaryKeyRelatedField(queryset=User.objects.all(), many=True)
+    genres = GenreSerializer(many=True)
+    hashtags = HashTagSerializer(many=True)
+    class Meta:
+        model = Movie
+        fields ='__all__'
+
 class ReviewSerializer(serializers.ModelSerializer):
     user = UserSerializer()
+    movie = MovieSerializer()
     created_at = serializers.DateTimeField(format="%Y.%m.%d %H:%M")
     class Meta:
         model = Review
@@ -30,14 +39,6 @@ class ReviewCreateSerializer(serializers.ModelSerializer):
     class Meta:
         model = Review
         fields = ('content', 'star', )
-
-class MovieSerializer(serializers.ModelSerializer):
-    # users = serializers.PrimaryKeyRelatedField(queryset=User.objects.all(), many=True)
-    genres = GenreSerializer(many=True)
-    hashtags = HashTagSerializer(many=True)
-    class Meta:
-        model = Movie
-        fields ='__all__'
 
 class SortSerializer(serializers.ModelSerializer):
     hashtags = HashTagSerializer(many=True)

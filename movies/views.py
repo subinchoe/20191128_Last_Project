@@ -5,7 +5,7 @@ from rest_framework.permissions import AllowAny, IsAuthenticated
 from .serializers import MovieSerializer, GenreSerializer, ReviewSerializer, ReviewCreateSerializer, SortSerializer
 from .models import Movie, Genre, HashTag, Review, Sort
 from accounts.models import User
-from accounts.serializers import UserSerializer
+from accounts.serializers import UserSerializer2
 from rest_framework.permissions import IsAuthenticated
 from rest_framework_jwt.authentication import JSONWebTokenAuthentication
 
@@ -15,6 +15,28 @@ from rest_framework_jwt.authentication import JSONWebTokenAuthentication
 @permission_classes([AllowAny,])
 def index(request):
     movies = Movie.objects.all()
+    serializer = MovieSerializer(movies, many=True)
+    return JsonResponse(serializer.data, safe=False)
+
+@api_view(['GET'])
+@permission_classes([AllowAny,])
+def top10(request):
+    movies = Movie.objects.all().order_by('-score')[:10]
+    serializer = MovieSerializer(movies, many=True)
+    return JsonResponse(serializer.data, safe=False)
+
+@api_view(['GET'])
+@permission_classes([AllowAny,])
+def recommended(request, id):
+    user = get_object_or_404(User, id=id)
+    genres = user.like_genres.all()
+    print(genres)
+    reviews = Review.objects.filter(user=id)
+    print(reviews)
+    # for review in reviews:
+        
+
+    movies = Movie.objects.all().order_by('-score')[:10]
     serializer = MovieSerializer(movies, many=True)
     return JsonResponse(serializer.data, safe=False)
 
@@ -41,6 +63,14 @@ def hashtags(request, id):
     # print(movie2)
     # 2.여러개 보낼 때는 serializer사용하지 않고 보내준다(리스트형태).
     return JsonResponse(movie2, safe=False)
+
+@api_view(['GET'])
+@permission_classes([AllowAny,])
+def get_movies(request, id):
+    hashtag = get_object_or_404(HashTag, id=id)
+    movies = hashtag.tagged_movie.all()
+    serializer = MovieSerializer(movies, many=True)
+    return JsonResponse(serializer.data, safe=False)
 
 @api_view(['GET'])
 @permission_classes([AllowAny,])
@@ -87,7 +117,7 @@ def review(request, id):
         if serializer.is_valid(raise_exception=True):
             review = serializer.save(user=request.user, movie=movie)
             serializer = ReviewSerializer(review)
-            return JsonResponse(serializer.data)
+            return JsonResponse(serializer.data, safe=False)
         return HttpResponse(status=400)
     elif request.method == 'DELETE':
         review = get_object_or_404(Review, id=id)
@@ -118,12 +148,6 @@ def sorts(request):
 @api_view(['GET'])
 @permission_classes([AllowAny,])
 def sort(request, sort, id):
-    if sort == 1:
-        sorts = Sort.objects.filter(sort=1, id=id)
-        print(sorts)
-        serializer = SortSerializer(sorts, many=True)
-        return JsonResponse(serializer.data, safe=False)
-    else:
-        sorts = Sort.objects.filter(sort=2, id=id)
-        serializer = SortSerializer(sorts, many=True)
-        return JsonResponse(serializer.data, safe=False)
+    sorts = Sort.objects.filter(sort=sort, id=id)
+    serializer = SortSerializer(sorts, many=True)
+    return JsonResponse(serializer.data, safe=False)

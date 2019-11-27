@@ -5,7 +5,10 @@ app_name = 'movies'
 
 urlpatterns = [
     path('', views.index),
+    path('top10/', views.top10),
+    path('<int:id>/', views.recommended),
     path('detail/<int:id>/', views.detail),
+    path('hashtag/<int:id>/', views.get_movies),
     path('hashtags/<int:id>/', views.hashtags),
     path('genres/', views.get_genres),
     path('genre/<int:id>/', views.genre),
