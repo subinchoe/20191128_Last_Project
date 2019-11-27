@@ -35,3 +35,10 @@ class Review(models.Model):
     content = models.CharField(max_length=300)
     star = models.IntegerField()
     created_at = models.DateTimeField(auto_now_add=True, blank=True)
+
+class Sort(models.Model):
+    sort = models.IntegerField()
+    name = models.CharField(max_length=100)
+    hashtags = models.ManyToManyField(HashTag, related_name='sorted_name', blank=True)
+    def __str__(self):
+        return self.name

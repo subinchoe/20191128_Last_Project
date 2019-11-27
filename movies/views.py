@@ -2,8 +2,10 @@ from django.http import JsonResponse, HttpResponse
 from django.shortcuts import render, get_object_or_404
 from rest_framework.decorators import api_view, permission_classes, authentication_classes
 from rest_framework.permissions import AllowAny, IsAuthenticated
-from .serializers import MovieSerializer, GenreSerializer, ReviewSerializer
-from .models import Movie, Genre, HashTag, Review
+from .serializers import MovieSerializer, GenreSerializer, ReviewSerializer, ReviewCreateSerializer, SortSerializer
+from .models import Movie, Genre, HashTag, Review, Sort
+from accounts.models import User
+from accounts.serializers import UserSerializer
 from rest_framework.permissions import IsAuthenticated
 from rest_framework_jwt.authentication import JSONWebTokenAuthentication
 
@@ -80,9 +82,11 @@ def like(request, id):
 @authentication_classes((JSONWebTokenAuthentication,))
 def review(request, id):
     if request.method == 'POST':
-        serializer = ReviewSerializer(data=request.POST)
-        if serializer.is_valid():
-            serializer.save()
+        movie = get_object_or_404(Movie, id=id)
+        serializer = ReviewCreateSerializer(data=request.data)
+        if serializer.is_valid(raise_exception=True):
+            review = serializer.save(user=request.user, movie=movie)
+            serializer = ReviewSerializer(review)
             return JsonResponse(serializer.data)
         return HttpResponse(status=400)
     elif request.method == 'DELETE':
@@ -97,3 +101,29 @@ def get_reviews(request, id):
     reviews = movie.review_set.all()
     serializer = ReviewSerializer(reviews, many=True)
     return JsonResponse(serializer.data, safe=False)
+
+@api_view(['GET'])
+@permission_classes([AllowAny,])
+def sorts(request):
+    sorts = Sort.objects.filter(sort=1)
+    serializer = SortSerializer(sorts, many=True)
+    sorts = Sort.objects.filter(sort=2)
+    serializer2 = SortSerializer(sorts, many=True)
+    context = {
+        'sort1': serializer.data,
+        'sort2': serializer2.data
+    }
+    return JsonResponse(context, safe=False)
+
+@api_view(['GET'])
+@permission_classes([AllowAny,])
+def sort(request, sort, id):
+    if sort == 1:
+        sorts = Sort.objects.filter(sort=1, id=id)
+        print(sorts)
+        serializer = SortSerializer(sorts, many=True)
+        return JsonResponse(serializer.data, safe=False)
+    else:
+        sorts = Sort.objects.filter(sort=2, id=id)
+        serializer = SortSerializer(sorts, many=True)
+        return JsonResponse(serializer.data, safe=False)

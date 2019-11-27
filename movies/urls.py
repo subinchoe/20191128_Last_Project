@@ -11,5 +11,7 @@ urlpatterns = [
     path('genre/<int:id>/', views.genre),
     path('<int:id>/like/', views.like),
     path('<int:id>/reviews/', views.get_reviews),
-    path('<int:id>/review/', views.review)
+    path('<int:id>/review/', views.review),
+    path('sorts/', views.sorts),
+    path('sort/<int:sort>/<int:id>/', views.sort)
 ]
