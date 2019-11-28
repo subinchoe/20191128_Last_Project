@@ -26,18 +26,39 @@ def top10(request):
     return JsonResponse(serializer.data, safe=False)
 
 @api_view(['GET'])
-@permission_classes([AllowAny,])
+@permission_classes((IsAuthenticated,))
+@authentication_classes((JSONWebTokenAuthentication,))
 def recommended(request, id):
     user = get_object_or_404(User, id=id)
     genres = user.like_genres.all()
-    print(genres)
-    reviews = Review.objects.filter(user=id)
-    print(reviews)
-    # for review in reviews:
-        
+    reviews = Review.objects.filter(user=user)
+    # 평점 8 이상 영화의 해시태그들
+    hashtagList = []
+    for review in reviews:
+        if review.star >= 8:
+            movie = get_object_or_404(Movie, title=review.movie)
+            for hashtag in movie.hashtags.all():
+                hashtagList.append(hashtag)
+    # 선호장르의 영화의 해시태그들
+    movieList = []
+    movieList2 = []
+    for genre in genres:
+        genre2 = get_object_or_404(Genre, name=genre)
+        movies = Movie.objects.filter(genres=genre2).order_by('-score')
+        print(movies)
+        for movie in movies:
+            for hashtag in movie.hashtags.all():
+                for h in hashtagList:
+                    if hashtag == h:
+                        movieList.append(movie)
+                movieList2.append(movie)
+                break
 
-    movies = Movie.objects.all().order_by('-score')[:10]
-    serializer = MovieSerializer(movies, many=True)
+    if movieList:
+        movie = movieList[0]
+    else:
+        movie = movieList2[0]
+    serializer = MovieSerializer(movie)
     return JsonResponse(serializer.data, safe=False)
 
 @api_view(['GET'])
